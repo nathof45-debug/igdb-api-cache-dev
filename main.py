@@ -347,23 +347,23 @@ for g in cleaned_bb_sorted:
 save_json(cleaned_bb_sorted, "blockbusters.json")
 print(f"✅ Fichier blockbusters.json généré avec {len(cleaned_bb_sorted)} hits majeurs.")
 
-# --- CATÉGORIE 5 : Dernières dates annoncées (Futures uniquement & Multi-plateforme) ---
-print("\n📡 Génération : Dernières dates annoncées (Futures uniquement)...")
+# --- CATÉGORIE 5 : Dernières dates annoncées (Nouvelles annonces stricte) ---
+print("\n📡 Génération : Dernières dates annoncées (Futures ou le jour même)...")
 
-# Période de détection de l'annonce : 14 jours (ajustable à 30 jours si besoin)
+# Période de détection : Annonce faite au cours des 14 derniers jours
 fourteen_days_ago = today - (14 * 24 * 3600)
 
 query_announced_dates = (
     f"{COMMON_FIELDS} "
     f"where release_dates.date_format = 0 "
-    f"& release_dates.date > {today} "
-    f"& (release_dates.updated_at >= {fourteen_days_ago} | release_dates.created_at >= {fourteen_days_ago}) "
+    f"& release_dates.date >= {today} " # 👈 La date de sortie est AUJOURD'HUI ou dans le FUTUR
+    f"& release_dates.created_at >= {fourteen_days_ago} " # 👈 STRICTEMENT les dates nouvellement créées dans IGDB
     f"& cover != null & cover.image_id != null "
     f"& (status = null | status != (4, 5)) "
-    f"& hypes != null & hypes >= 7 "
+    f"& hypes != null & hypes > 0 "
     f"{NO_FANGAME_FILTER}; "
     f"sort hypes desc; "
-    f"limit 500;"
+    f"limit 200;"
 )
 
 res = requests.post(BASE_URL, headers=headers, data=query_announced_dates)
@@ -373,16 +373,11 @@ if res.status_code == 200:
     valid_announced_games = []
     
     for game in raw_games:
-        # On vérifie si le jeu possède AU MOINS une date :
-        # 1. Précise (date_format == 0)
-        # 2. Strictement dans le FUTUR (rd_date > today)
-        # 3. Annocée/mise à jour RÉCEMMENT (updated_at ou created_at >= fourteen_days_ago)
-        has_future_recent_announcement = False
+        has_new_valid_announcement = False
         
         for rd in game.get("release_dates", []):
             fmt = rd.get("date_format", rd.get("category"))
             rd_date = rd.get("date")
-            upd = rd.get("updated_at", 0)
             crt = rd.get("created_at", 0)
             st = rd.get("status")
             
@@ -390,12 +385,18 @@ if res.status_code == 200:
             if st in {1, 2, 4, 5}:
                 continue
                 
-            if fmt == 0 and rd_date and rd_date > today:
-                if upd >= fourteen_days_ago or crt >= fourteen_days_ago:
-                    has_future_recent_announcement = True
+            # Vérification stricte :
+            # 1. Date exacte (fmt == 0)
+            # 2. Date de sortie >= Aujourd'hui
+            # 3. La date a été RENSEIGNÉE dans IGDB récemment (created_at)
+            if fmt == 0 and rd_date and rd_date >= today:
+                if crt >= fourteen_days_ago:
+                    has_new_valid_announcement = True
+                    # Optionnel: Ligne de debug pour voir dans les logs GitHub
+                    # print(f"📌 Nouvelle annonce : {game.get('name')} | Sortie prévue : {datetime.datetime.fromtimestamp(rd_date).strftime('%d/%m/%Y')}")
                     break
                     
-        if has_future_recent_announcement:
+        if has_new_valid_announcement:
             valid_announced_games.append(game)
 
     # Aplatissement des données pour le format mobile
@@ -406,7 +407,7 @@ if res.status_code == 200:
     
     # Sauvegarde dans tbd.json (utilisé par la 5ème catégorie dans l'app)
     save_json(cleaned_announced[:100], "tbd.json")
-    print(f"✅ Fichier tbd.json généré avec succès ({len(cleaned_announced[:100])} jeux à venir).")
+    print(f"✅ Fichier tbd.json généré avec succès ({len(cleaned_announced[:100])} nouvelles annonces).")
 else:
     print(f"❌ Erreur Dernières dates annoncées : {res.text}")
 
