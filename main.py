@@ -347,20 +347,20 @@ for g in cleaned_bb_sorted:
 save_json(cleaned_bb_sorted, "blockbusters.json")
 print(f"✅ Fichier blockbusters.json généré avec {len(cleaned_bb_sorted)} hits majeurs.")
 
-# --- CATÉGORIE 5 : Dernières dates annoncées ---
-print("\n📡 Génération : Dernières dates annoncées (post-conférences)...")
+# --- CATÉGORIE 5 : Dernières dates annoncées (Futures uniquement & Multi-plateforme) ---
+print("\n📡 Génération : Dernières dates annoncées (Futures uniquement)...")
 
-# Période de détection de l'annonce : 14 jours (ou 30 jours si vous souhaitez remonter plus loin)
+# Période de détection de l'annonce : 14 jours (ajustable à 30 jours si besoin)
 fourteen_days_ago = today - (14 * 24 * 3600)
 
 query_announced_dates = (
     f"{COMMON_FIELDS} "
     f"where release_dates.date_format = 0 "
+    f"& release_dates.date > {today} "
     f"& (release_dates.updated_at >= {fourteen_days_ago} | release_dates.created_at >= {fourteen_days_ago}) "
-    f"& release_dates.date >= {seven_days_ago} "
     f"& cover != null & cover.image_id != null "
     f"& (status = null | status != (4, 5)) "
-    f"& hypes != null & hypes > 0 "
+    f"& hypes != null & hypes >= 7 "
     f"{NO_FANGAME_FILTER}; "
     f"sort hypes desc; "
     f"limit 200;"
@@ -369,29 +369,44 @@ query_announced_dates = (
 res = requests.post(BASE_URL, headers=headers, data=query_announced_dates)
 
 if res.status_code == 200:
-    cleaned = clean_games_data(res.json())
-    final_announced = []
+    raw_games = res.json()
+    valid_announced_games = []
     
-    for g in cleaned:
-        # Vérification : au moins une date précise (format 0) et future/récente
-        has_valid_announced_date = False
-        for rd in g.get("release_dates", []):
-            fmt = rd.get("category") if rd.get("category") is not None else rd.get("date_format")
+    for game in raw_games:
+        # On vérifie si le jeu possède AU MOINS une date :
+        # 1. Précise (date_format == 0)
+        # 2. Strictement dans le FUTUR (rd_date > today)
+        # 3. Annocée/mise à jour RÉCEMMENT (updated_at ou created_at >= fourteen_days_ago)
+        has_future_recent_announcement = False
+        
+        for rd in game.get("release_dates", []):
+            fmt = rd.get("date_format", rd.get("category"))
             rd_date = rd.get("date")
+            upd = rd.get("updated_at", 0)
+            crt = rd.get("created_at", 0)
+            st = rd.get("status")
             
-            if fmt == 0 and rd_date and rd_date >= seven_days_ago:
-                has_valid_announced_date = True
-                break
+            # Exclusion si la sortie spécifique à cette plateforme est annulée ou masquée
+            if st in {1, 2, 4, 5}:
+                continue
                 
-        if has_valid_announced_date and g.get("cover") and g.get("cover").get("image_id"):
-            final_announced.append(g)
+            if fmt == 0 and rd_date and rd_date > today:
+                if upd >= fourteen_days_ago or crt >= fourteen_days_ago:
+                    has_future_recent_announcement = True
+                    break
+                    
+        if has_future_recent_announcement:
+            valid_announced_games.append(game)
 
-    # Tri par nombre de hypes décroissant
-    final_announced.sort(key=lambda g: g.get("hypes") or 0, reverse=True)
+    # Aplatissement des données pour le format mobile
+    cleaned_announced = clean_games_data(valid_announced_games)
     
-    # Sauvegarde dans tbd.json (utilisé par la 5ème catégorie de l'application)
-    save_json(final_announced[:100], "tbd.json")
-    print("✅ Fichier tbd.json généré avec succès pour les dernières dates annoncées.")
+    # Tri par ordre de Hype décroissant
+    cleaned_announced.sort(key=lambda g: g.get("hypes") or 0, reverse=True)
+    
+    # Sauvegarde dans tbd.json (utilisé par la 5ème catégorie dans l'app)
+    save_json(cleaned_announced[:100], "tbd.json")
+    print(f"✅ Fichier tbd.json généré avec succès ({len(cleaned_announced[:100])} jeux à venir).")
 else:
     print(f"❌ Erreur Dernières dates annoncées : {res.text}")
 
