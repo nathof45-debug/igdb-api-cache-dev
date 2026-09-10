@@ -347,26 +347,52 @@ for g in cleaned_bb_sorted:
 save_json(cleaned_bb_sorted, "blockbusters.json")
 print(f"✅ Fichier blockbusters.json généré avec {len(cleaned_bb_sorted)} hits majeurs.")
 
-# --- CATÉGORIE 5 : Nouveaux jeux annoncés & très attendus (TBD) ---
-print("\n📡 Génération : Nouvelles annonces les plus attendues (TBD récents & populaires...)")
-query_tbd = (
+# --- CATÉGORIE 5 : Dernières dates annoncées ---
+print("\n📡 Génération : Dernières dates annoncées (post-conférences)...")
+
+# Période de détection de l'annonce : 14 jours (ou 30 jours si vous souhaitez remonter plus loin)
+fourteen_days_ago = today - (14 * 24 * 3600)
+
+query_announced_dates = (
     f"{COMMON_FIELDS} "
-    f"where created_at >= {one_year_ago} "
-    f"& first_release_date = null "
-    f"& cover != null "
-    f"& (game_type = null | game_type = (0, 8, 9, 10, 11)) "
-    f"& (hypes >= 5 | follows >= 5) "
-    f"& (status = null | status != (6, 7)) "
+    f"where release_dates.date_format = 0 "
+    f"& (release_dates.updated_at >= {fourteen_days_ago} | release_dates.created_at >= {fourteen_days_ago}) "
+    f"& release_dates.date >= {seven_days_ago} "
+    f"& cover != null & cover.image_id != null "
+    f"& (status = null | status != (4, 5)) "
+    f"& hypes != null & hypes > 0 "
     f"{NO_FANGAME_FILTER}; "
     f"sort hypes desc; "
-    f"limit 150;"
+    f"limit 200;"
 )
-res = requests.post(BASE_URL, headers=headers, data=query_tbd)
+
+res = requests.post(BASE_URL, headers=headers, data=query_announced_dates)
+
 if res.status_code == 200:
     cleaned = clean_games_data(res.json())
-    cleaned = [g for g in cleaned if get_best_date(g) is None]
-    cleaned.sort(key=lambda x: x.get("hypes") or 0, reverse=True)
-    save_json(cleaned[:100], "tbd.json")
-    print(f"✅ Fichier tbd.json généré avec succès ({len(cleaned[:100])} jeux).")
+    final_announced = []
+    
+    for g in cleaned:
+        # Vérification : au moins une date précise (format 0) et future/récente
+        has_valid_announced_date = False
+        for rd in g.get("release_dates", []):
+            fmt = rd.get("category") if rd.get("category") is not None else rd.get("date_format")
+            rd_date = rd.get("date")
+            
+            if fmt == 0 and rd_date and rd_date >= seven_days_ago:
+                has_valid_announced_date = True
+                break
+                
+        if has_valid_announced_date and g.get("cover") and g.get("cover").get("image_id"):
+            final_announced.append(g)
+
+    # Tri par nombre de hypes décroissant
+    final_announced.sort(key=lambda g: g.get("hypes") or 0, reverse=True)
+    
+    # Sauvegarde dans tbd.json (utilisé par la 5ème catégorie de l'application)
+    save_json(final_announced[:100], "tbd.json")
+    print("✅ Fichier tbd.json généré avec succès pour les dernières dates annoncées.")
+else:
+    print(f"❌ Erreur Dernières dates annoncées : {res.text}")
 
 print("\n🎉 Toutes les catégories ont été générées avec succès !")
