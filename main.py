@@ -347,7 +347,7 @@ for g in cleaned_bb_sorted:
 save_json(cleaned_bb_sorted, "blockbusters.json")
 print(f"✅ Fichier blockbusters.json généré avec {len(cleaned_bb_sorted)} hits majeurs.")
 
-# --- CATÉGORIE 5 : Dernières dates annoncées (Nouvelles annonces stricte) ---
+# --- CATÉGORIE 6 : Dernières dates annoncées (Nouvelles annonces stricte) ---
 print("\n📡 Génération : Dernières dates annoncées (Futures ou le jour même)...")
 
 # Période de détection : Annonce faite au cours des 14 derniers jours
@@ -406,7 +406,7 @@ if res.status_code == 200:
     cleaned_announced.sort(key=lambda g: g.get("hypes") or 0, reverse=True)
     
     # Sauvegarde dans tbd.json (utilisé par la 5ème catégorie dans l'app)
-    save_json(cleaned_announced[:100], "tbd.json")
+    save_json(cleaned_announced[:100], "date_revealed.json")
     print(f"✅ Fichier tbd.json généré avec succès ({len(cleaned_announced[:100])} nouvelles annonces).")
 else:
     print(f"❌ Erreur Dernières dates annoncées : {res.text}")
