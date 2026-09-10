@@ -363,7 +363,7 @@ query_announced_dates = (
     f"& hypes != null & hypes >= 7 "
     f"{NO_FANGAME_FILTER}; "
     f"sort hypes desc; "
-    f"limit 200;"
+    f"limit 500;"
 )
 
 res = requests.post(BASE_URL, headers=headers, data=query_announced_dates)
