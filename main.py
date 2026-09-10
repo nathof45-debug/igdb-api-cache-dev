@@ -347,6 +347,28 @@ for g in cleaned_bb_sorted:
 save_json(cleaned_bb_sorted, "blockbusters.json")
 print(f"✅ Fichier blockbusters.json généré avec {len(cleaned_bb_sorted)} hits majeurs.")
 
+# --- CATÉGORIE 5 : Nouveaux jeux annoncés & très attendus (TBD) ---
+print("\n📡 Génération : Nouvelles annonces les plus attendues (TBD récents & populaires...)")
+query_tbd = (
+    f"{COMMON_FIELDS} "
+    f"where created_at >= {one_year_ago} "
+    f"& first_release_date = null "
+    f"& cover != null "
+    f"& (game_type = null | game_type = (0, 8, 9, 10, 11)) "
+    f"& (hypes >= 5 | follows >= 5) "
+    f"& (status = null | status != (6, 7)) "
+    f"{NO_FANGAME_FILTER}; "
+    f"sort hypes desc; "
+    f"limit 150;"
+)
+res = requests.post(BASE_URL, headers=headers, data=query_tbd)
+if res.status_code == 200:
+    cleaned = clean_games_data(res.json())
+    cleaned = [g for g in cleaned if get_best_date(g) is None]
+    cleaned.sort(key=lambda x: x.get("hypes") or 0, reverse=True)
+    save_json(cleaned[:100], "tbd.json")
+    print(f"✅ Fichier tbd.json généré avec succès ({len(cleaned[:100])} jeux).")
+
 # --- CATÉGORIE 6 : Dernières dates annoncées (Nouvelles annonces stricte) ---
 print("\n📡 Génération : Dernières dates annoncées (Futures ou le jour même)...")
 
