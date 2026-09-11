@@ -67,9 +67,11 @@ COMMON_FIELDS = (
 
 BASE_URL = "https://api.igdb.com/v4/games"
 
-# Clause de filtrage globale pour l'API IGDB
+# Clause de filtrage globale pour l'API IGDB (MODIFIÉE)
 NO_FANGAME_FILTER = (
-    "& (game_type = null | game_type != (5, 12, 14)) "
+    "& (game_type = null | game_type != (5, 10, 12, 14)) "
+    "& version_parent = null "
+    "& (parent_game = null | game_type = (8, 9))"
     "& (keywords = null | keywords.slug != (\"unofficial\", \"fan-made\", \"fan-game\", \"rom-hack\", \"fangame\"))"
 )
 
@@ -87,14 +89,19 @@ def clean_games_data(games_data, scores_dict=None):
             g_type = g_type.get("id")
         if g_type in EXCLUDED_GAME_TYPES:
             continue
+
+        # --- 2. Exclusion des éditions (Deluxe, etc.) via parent_game et version_parent ---
+        if g_type not in {8, 9} :
+            if game.get("version_parent") is not None or game.get("parent_game") is not None:
+                continue
             
-        # --- 2. Exclusion des Fangames via keywords ---
+        # --- 3. Exclusion des Fangames via keywords ---
         keywords = game.get("keywords", [])
         keyword_slugs = [k.get("slug") for k in keywords if isinstance(k, dict) and k.get("slug")]
         if any(slug in EXCLUDED_KEYWORDS_SLUGS for slug in keyword_slugs):
             continue
 
-        # --- 3. Exclusion des Fangames via mots-clés dans le Titre ---
+        # --- 4. Exclusion des Fangames via mots-clés dans le Titre ---
         game_name_lower = (game.get("name") or "").lower()
         if any(bad_word in game_name_lower for bad_word in ["fangame", "fan game", "fan-game", "rom hack"]):
             continue
