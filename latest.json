@@ -1,5 +1,85 @@
 [
   {
+    "id": 412303,
+    "name": "Luduvo",
+    "cover": {
+      "id": 588954,
+      "image_id": "cocmfu"
+    },
+    "rating": null,
+    "first_release_date": 1789171200,
+    "hypes": 8,
+    "status": 2,
+    "follows": null,
+    "themes": [
+      33,
+      38
+    ],
+    "pop_score": null,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "platform_ids": [
+      3,
+      6,
+      14
+    ],
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "genre_ids": [
+      8,
+      31
+    ],
+    "developers": [
+      "Luduvo Corporation"
+    ],
+    "developer_ids": [
+      79840
+    ],
+    "publishers": [
+      "Luduvo Corporation"
+    ],
+    "publisher_ids": [
+      79840
+    ],
+    "languages": [
+      "English"
+    ],
+    "release_dates": [
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 9,
+        "d": 12,
+        "date": 1789171200,
+        "status": 6,
+        "platform_name": "Linux"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 9,
+        "d": 12,
+        "date": 1789171200,
+        "status": 6,
+        "platform_name": "PC (Microsoft Windows)"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 9,
+        "d": 12,
+        "date": 1789171200,
+        "status": 6,
+        "platform_name": "Mac"
+      }
+    ]
+  },
+  {
     "id": 326485,
     "name": "Anime Shop Simulator",
     "cover": {
@@ -22,10 +102,12 @@
       6
     ],
     "genres": [
-      "Simulator"
+      "Simulator",
+      "Card & Board Game"
     ],
     "genre_ids": [
-      13
+      13,
+      35
     ],
     "developers": [
       "One More Time"
@@ -40,20 +122,20 @@
       54316
     ],
     "languages": [
-      "Portuguese (Portugal)",
-      "Czech",
-      "Chinese (Simplified)",
-      "Spanish (Spain)",
-      "Italian",
-      "Portuguese (Brazil)",
       "English",
-      "Russian",
-      "Turkish",
+      "Czech",
       "French",
+      "Korean",
       "German",
       "Polish",
+      "Portuguese (Portugal)",
+      "Russian",
+      "Italian",
       "Japanese",
-      "Korean"
+      "Spanish (Spain)",
+      "Turkish",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -110,20 +192,20 @@
     "publishers": [],
     "publisher_ids": [],
     "languages": [
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Portuguese (Portugal)",
-      "Spanish (Spain)",
-      "Portuguese (Brazil)",
       "English",
-      "Russian",
-      "Turkish",
-      "Swedish",
       "French",
+      "Korean",
       "German",
       "Polish",
+      "Swedish",
+      "Portuguese (Portugal)",
+      "Russian",
+      "Chinese (Traditional)",
       "Japanese",
-      "Korean"
+      "Spanish (Spain)",
+      "Turkish",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -203,20 +285,20 @@
       13699
     ],
     "languages": [
-      "Portuguese (Portugal)",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Spanish (Spain)",
-      "Italian",
       "English",
-      "Russian",
-      "Turkish",
-      "Ukrainian",
       "French",
+      "Korean",
       "German",
       "Polish",
+      "Portuguese (Portugal)",
+      "Russian",
+      "Chinese (Traditional)",
+      "Italian",
       "Japanese",
-      "Korean"
+      "Ukrainian",
+      "Spanish (Spain)",
+      "Turkish",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -302,13 +384,13 @@
       18643
     ],
     "languages": [
-      "Chinese (Simplified)",
-      "Spanish (Spain)",
-      "Portuguese (Brazil)",
-      "Russian",
       "English",
       "French",
-      "German"
+      "German",
+      "Russian",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -379,15 +461,15 @@
       28444
     ],
     "languages": [
-      "Spanish (Spain)",
-      "Italian",
-      "Portuguese (Brazil)",
-      "Spanish (Mexico)",
       "English",
-      "Russian",
       "French",
+      "Spanish (Mexico)",
       "German",
-      "Japanese"
+      "Russian",
+      "Italian",
+      "Japanese",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)"
     ],
     "release_dates": [
       {
@@ -462,14 +544,14 @@
       7701
     ],
     "languages": [
-      "Chinese (Simplified)",
-      "Spanish (Spain)",
       "English",
-      "Russian",
       "French",
       "German",
       "Polish",
-      "Japanese"
+      "Russian",
+      "Japanese",
+      "Spanish (Spain)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -531,20 +613,21 @@
       38177
     ],
     "languages": [
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Spanish (Spain)",
-      "Italian",
-      "Portuguese (Brazil)",
       "English",
-      "Russian",
-      "Turkish",
-      "Ukrainian",
       "French",
+      "Spanish (Mexico)",
+      "Korean",
       "German",
       "Polish",
+      "Russian",
+      "Chinese (Traditional)",
+      "Italian",
       "Japanese",
-      "Korean"
+      "Ukrainian",
+      "Spanish (Spain)",
+      "Turkish",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -613,8 +696,8 @@
     "publishers": [],
     "publisher_ids": [],
     "languages": [
-      "German",
-      "English"
+      "English",
+      "German"
     ],
     "release_dates": [
       {
@@ -737,16 +820,16 @@
     "publishers": [],
     "publisher_ids": [],
     "languages": [
-      "Portuguese (Portugal)",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Spanish (Spain)",
-      "Italian",
       "English",
-      "Ukrainian",
+      "Korean",
       "German",
+      "Portuguese (Portugal)",
+      "Chinese (Traditional)",
+      "Italian",
       "Japanese",
-      "Korean"
+      "Ukrainian",
+      "Spanish (Spain)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -821,13 +904,13 @@
       14002
     ],
     "languages": [
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Portuguese (Brazil)",
       "English",
       "French",
       "German",
-      "Japanese"
+      "Chinese (Traditional)",
+      "Japanese",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -883,14 +966,14 @@
       57457
     ],
     "languages": [
-      "Portuguese (Portugal)",
-      "Chinese (Simplified)",
-      "Spanish (Spain)",
-      "Italian",
-      "Russian",
       "English",
       "French",
-      "German"
+      "German",
+      "Portuguese (Portugal)",
+      "Russian",
+      "Italian",
+      "Spanish (Spain)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -1002,29 +1085,29 @@
       81157
     ],
     "languages": [
-      "Hungarian",
-      "Arabic",
-      "Ukrainian",
-      "Japanese",
-      "Portuguese (Portugal)",
-      "Czech",
-      "Danish",
-      "Spanish (Spain)",
-      "Russian",
-      "Swedish",
-      "Vietnamese",
       "German",
       "Thai",
-      "Chinese (Simplified)",
-      "Italian",
-      "English",
-      "French",
-      "Polish",
+      "Ukrainian",
+      "Czech",
       "Korean",
-      "Finnish",
-      "Norwegian",
+      "Polish",
+      "Arabic",
+      "Russian",
+      "Italian",
+      "French",
+      "Dutch",
+      "Swedish",
+      "Portuguese (Portugal)",
+      "Hungarian",
       "Turkish",
-      "Dutch"
+      "English",
+      "Danish",
+      "Norwegian",
+      "Japanese",
+      "Spanish (Spain)",
+      "Finnish",
+      "Vietnamese",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -1109,13 +1192,13 @@
       21381
     ],
     "languages": [
-      "Chinese (Simplified)",
-      "Spanish (Spain)",
       "English",
-      "Russian",
       "French",
       "German",
-      "Japanese"
+      "Russian",
+      "Japanese",
+      "Spanish (Spain)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -1204,16 +1287,16 @@
     "publishers": [],
     "publisher_ids": [],
     "languages": [
-      "Chinese (Simplified)",
-      "Spanish (Spain)",
-      "Portuguese (Brazil)",
       "English",
-      "Russian",
-      "Turkish",
       "French",
+      "Korean",
       "Polish",
+      "Russian",
       "Japanese",
-      "Korean"
+      "Spanish (Spain)",
+      "Turkish",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -1266,14 +1349,14 @@
     "publishers": [],
     "publisher_ids": [],
     "languages": [
-      "Spanish (Spain)",
-      "Italian",
-      "Portuguese (Brazil)",
       "English",
-      "Russian",
-      "Turkish",
       "French",
-      "German"
+      "German",
+      "Russian",
+      "Italian",
+      "Spanish (Spain)",
+      "Turkish",
+      "Portuguese (Brazil)"
     ],
     "release_dates": [
       {
@@ -1330,12 +1413,12 @@
     "publishers": [],
     "publisher_ids": [],
     "languages": [
-      "Spanish (Spain)",
-      "Italian",
-      "Portuguese (Brazil)",
       "English",
       "French",
-      "German"
+      "German",
+      "Italian",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)"
     ],
     "release_dates": [
       {
@@ -1432,17 +1515,17 @@
       48816
     ],
     "languages": [
-      "Chinese (Simplified)",
+      "English",
+      "French",
+      "Korean",
+      "German",
+      "Russian",
       "Chinese (Traditional)",
       "Italian",
+      "Japanese",
       "Spanish (Spain)",
       "Portuguese (Brazil)",
-      "English",
-      "Russian",
-      "French",
-      "German",
-      "Japanese",
-      "Korean"
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -1526,18 +1609,18 @@
       27828
     ],
     "languages": [
-      "Chinese (Simplified)",
-      "Italian",
-      "Spanish (Spain)",
-      "Portuguese (Brazil)",
       "English",
-      "Russian",
-      "Turkish",
       "French",
+      "Korean",
       "German",
-      "Thai",
+      "Russian",
       "Japanese",
-      "Korean"
+      "Italian",
+      "Thai",
+      "Spanish (Spain)",
+      "Turkish",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -1598,16 +1681,16 @@
       71817
     ],
     "languages": [
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Portuguese (Portugal)",
-      "Spanish (Mexico)",
       "English",
-      "Russian",
+      "Spanish (Mexico)",
       "French",
+      "Korean",
       "German",
+      "Portuguese (Portugal)",
+      "Russian",
+      "Chinese (Traditional)",
       "Japanese",
-      "Korean"
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -1663,10 +1746,10 @@
     "publishers": [],
     "publisher_ids": [],
     "languages": [
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
       "English",
-      "Japanese"
+      "Chinese (Traditional)",
+      "Japanese",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -1733,15 +1816,15 @@
       62515
     ],
     "languages": [
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Italian",
-      "Portuguese (Brazil)",
-      "Spanish (Spain)",
       "English",
+      "Korean",
       "German",
+      "Chinese (Traditional)",
+      "Italian",
       "Japanese",
-      "Korean"
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -1790,21 +1873,21 @@
     "publishers": [],
     "publisher_ids": [],
     "languages": [
-      "Chinese (Simplified)",
-      "Portuguese (Portugal)",
-      "Arabic",
-      "Italian",
-      "Spanish (Spain)",
-      "Portuguese (Brazil)",
       "English",
-      "Russian",
-      "Turkish",
-      "Ukrainian",
       "French",
+      "Korean",
       "German",
       "Polish",
+      "Arabic",
+      "Portuguese (Portugal)",
+      "Russian",
+      "Italian",
       "Japanese",
-      "Korean"
+      "Ukrainian",
+      "Spanish (Spain)",
+      "Turkish",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -1863,16 +1946,16 @@
       10094
     ],
     "languages": [
-      "Chinese (Simplified)",
+      "English",
+      "French",
+      "Korean",
+      "German",
+      "Russian",
+      "Japanese",
       "Italian",
       "Spanish (Spain)",
       "Portuguese (Brazil)",
-      "English",
-      "Russian",
-      "French",
-      "German",
-      "Japanese",
-      "Korean"
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -1952,17 +2035,17 @@
       18643
     ],
     "languages": [
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Spanish (Spain)",
-      "Portuguese (Brazil)",
       "English",
-      "Russian",
       "French",
+      "Korean",
       "German",
       "Polish",
+      "Russian",
+      "Chinese (Traditional)",
       "Japanese",
-      "Korean"
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -2051,14 +2134,14 @@
       27331
     ],
     "languages": [
-      "Chinese (Simplified)",
-      "Spanish (Spain)",
       "English",
-      "Turkish",
       "French",
       "German",
       "Polish",
-      "Japanese"
+      "Japanese",
+      "Spanish (Spain)",
+      "Turkish",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -2141,20 +2224,20 @@
       30561
     ],
     "languages": [
-      "Chinese (Simplified)",
-      "Portuguese (Portugal)",
-      "Chinese (Traditional)",
-      "Italian",
-      "Portuguese (Brazil)",
-      "Spanish (Spain)",
       "English",
-      "Russian",
-      "Ukrainian",
       "French",
+      "Korean",
       "German",
       "Polish",
+      "Portuguese (Portugal)",
+      "Russian",
+      "Chinese (Traditional)",
+      "Italian",
       "Japanese",
-      "Korean"
+      "Ukrainian",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -2286,22 +2369,22 @@
       7847
     ],
     "languages": [
-      "Portuguese (Portugal)",
+      "English",
       "Czech",
-      "Chinese (Simplified)",
+      "French",
+      "Spanish (Mexico)",
+      "Korean",
+      "German",
+      "Dutch",
+      "Polish",
+      "Portuguese (Portugal)",
+      "Russian",
       "Chinese (Traditional)",
+      "Japanese",
+      "Italian",
       "Spanish (Spain)",
       "Portuguese (Brazil)",
-      "Italian",
-      "Spanish (Mexico)",
-      "English",
-      "Russian",
-      "Dutch",
-      "French",
-      "German",
-      "Polish",
-      "Japanese",
-      "Korean"
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -2362,22 +2445,22 @@
       80384
     ],
     "languages": [
-      "Portuguese (Portugal)",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Spanish (Spain)",
-      "Portuguese (Brazil)",
-      "Italian",
       "English",
-      "Russian",
-      "Turkish",
-      "Dutch",
-      "Ukrainian",
       "French",
+      "Korean",
       "German",
+      "Dutch",
       "Polish",
+      "Portuguese (Portugal)",
+      "Russian",
+      "Chinese (Traditional)",
       "Japanese",
-      "Korean"
+      "Italian",
+      "Ukrainian",
+      "Spanish (Spain)",
+      "Turkish",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -2454,31 +2537,31 @@
       71487
     ],
     "languages": [
+      "German",
+      "Ukrainian",
+      "Thai",
+      "Czech",
+      "Korean",
+      "Polish",
+      "Arabic",
+      "Russian",
+      "Italian",
+      "Portuguese (Brazil)",
+      "French",
+      "Dutch",
+      "Swedish",
+      "Portuguese (Portugal)",
       "Hungarian",
       "Chinese (Traditional)",
-      "Arabic",
-      "Ukrainian",
-      "Japanese",
-      "Portuguese (Portugal)",
-      "Czech",
-      "Danish",
-      "Spanish (Spain)",
-      "Portuguese (Brazil)",
-      "Russian",
-      "Swedish",
-      "Vietnamese",
-      "German",
-      "Thai",
-      "Chinese (Simplified)",
-      "Italian",
-      "English",
-      "French",
-      "Polish",
-      "Korean",
-      "Finnish",
-      "Norwegian",
       "Turkish",
-      "Dutch"
+      "English",
+      "Danish",
+      "Norwegian",
+      "Japanese",
+      "Spanish (Spain)",
+      "Finnish",
+      "Vietnamese",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -2652,22 +2735,22 @@
       61264
     ],
     "languages": [
-      "Portuguese (Portugal)",
-      "Czech",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Italian",
-      "Spanish (Spain)",
       "English",
-      "Russian",
-      "Turkish",
-      "Ukrainian",
+      "Czech",
       "French",
-      "Vietnamese",
+      "Korean",
       "German",
       "Polish",
+      "Portuguese (Portugal)",
+      "Russian",
+      "Chinese (Traditional)",
       "Japanese",
-      "Korean"
+      "Italian",
+      "Ukrainian",
+      "Spanish (Spain)",
+      "Turkish",
+      "Vietnamese",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -2730,17 +2813,18 @@
       1459
     ],
     "languages": [
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Spanish (Spain)",
-      "Italian",
-      "Portuguese (Brazil)",
       "English",
-      "Turkish",
       "French",
+      "Spanish (Mexico)",
       "German",
       "Polish",
-      "Japanese"
+      "Chinese (Traditional)",
+      "Italian",
+      "Japanese",
+      "Spanish (Spain)",
+      "Turkish",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -2869,8 +2953,8 @@
     ],
     "languages": [
       "English",
-      "Japanese",
-      "Spanish (Spain)"
+      "Spanish (Spain)",
+      "Japanese"
     ],
     "release_dates": [
       {
@@ -2932,15 +3016,15 @@
       78112
     ],
     "languages": [
-      "Portuguese (Portugal)",
-      "Chinese (Simplified)",
-      "Spanish (Spain)",
-      "Portuguese (Brazil)",
-      "Russian",
       "English",
       "French",
       "German",
-      "Japanese"
+      "Portuguese (Portugal)",
+      "Russian",
+      "Japanese",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -3002,16 +3086,16 @@
       59187
     ],
     "languages": [
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Spanish (Spain)",
-      "Portuguese (Brazil)",
-      "Russian",
       "English",
       "French",
       "German",
       "Polish",
-      "Japanese"
+      "Russian",
+      "Chinese (Traditional)",
+      "Japanese",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -3072,8 +3156,8 @@
     "publishers": [],
     "publisher_ids": [],
     "languages": [
-      "German",
-      "English"
+      "English",
+      "German"
     ],
     "release_dates": [
       {
@@ -3122,8 +3206,8 @@
     "publishers": [],
     "publisher_ids": [],
     "languages": [
-      "Chinese (Simplified)",
-      "English"
+      "English",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -3152,85 +3236,6 @@
         "date": 1788739200,
         "status": 6,
         "platform_name": "Mac"
-      }
-    ]
-  },
-  {
-    "id": 414613,
-    "name": "Pitchside Empire",
-    "cover": {
-      "id": 599077,
-      "image_id": "cocu91"
-    },
-    "rating": null,
-    "first_release_date": 1788566400,
-    "hypes": 1,
-    "status": null,
-    "follows": null,
-    "themes": [
-      28
-    ],
-    "pop_score": null,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "platform_ids": [
-      6,
-      14
-    ],
-    "genres": [
-      "Simulator",
-      "Sport",
-      "Strategy",
-      "Indie"
-    ],
-    "genre_ids": [
-      13,
-      14,
-      15,
-      32
-    ],
-    "developers": [
-      "Bombastik Studio"
-    ],
-    "developer_ids": [
-      80459
-    ],
-    "publishers": [
-      "Bombastik Studio"
-    ],
-    "publisher_ids": [
-      80459
-    ],
-    "languages": [
-      "Chinese (Simplified)",
-      "Spanish (Spain)",
-      "Portuguese (Brazil)",
-      "English",
-      "Russian",
-      "Turkish",
-      "French",
-      "German"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 9,
-        "d": 5,
-        "date": 1788566400,
-        "status": 6,
-        "platform_name": "Mac"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 9,
-        "d": 5,
-        "date": 1788566400,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
       }
     ]
   },
@@ -3357,19 +3362,19 @@
       49383
     ],
     "languages": [
-      "Chinese (Simplified)",
-      "Czech",
-      "Chinese (Traditional)",
-      "Spanish (Spain)",
-      "Portuguese (Brazil)",
       "English",
-      "Russian",
-      "Turkish",
+      "Czech",
       "French",
+      "Korean",
       "German",
       "Polish",
+      "Russian",
+      "Chinese (Traditional)",
       "Japanese",
-      "Korean"
+      "Spanish (Spain)",
+      "Turkish",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -3453,16 +3458,16 @@
       12884
     ],
     "languages": [
-      "Chinese (Simplified)",
-      "Italian",
-      "Portuguese (Brazil)",
-      "Spanish (Spain)",
       "English",
-      "Russian",
       "French",
+      "Korean",
       "German",
+      "Russian",
+      "Italian",
       "Japanese",
-      "Korean"
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -3552,9 +3557,9 @@
       13189
     ],
     "languages": [
+      "English",
       "German",
       "Chinese (Simplified)",
-      "English",
       "French"
     ],
     "release_dates": [
@@ -3632,20 +3637,20 @@
       61059
     ],
     "languages": [
-      "Portuguese (Portugal)",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Italian",
-      "Spanish (Spain)",
-      "Portuguese (Brazil)",
-      "Russian",
       "English",
-      "Ukrainian",
       "French",
+      "Korean",
       "German",
       "Polish",
+      "Portuguese (Portugal)",
+      "Russian",
+      "Chinese (Traditional)",
+      "Italian",
       "Japanese",
-      "Korean"
+      "Ukrainian",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -3713,15 +3718,15 @@
     "publishers": [],
     "publisher_ids": [],
     "languages": [
-      "Chinese (Simplified)",
-      "Portuguese (Brazil)",
-      "Russian",
       "English",
-      "Turkish",
-      "Ukrainian",
       "French",
       "German",
-      "Polish"
+      "Polish",
+      "Russian",
+      "Ukrainian",
+      "Turkish",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
@@ -3809,15 +3814,15 @@
       26
     ],
     "languages": [
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Spanish (Spain)",
-      "Italian",
       "English",
       "French",
+      "Korean",
       "German",
+      "Chinese (Traditional)",
+      "Italian",
       "Japanese",
-      "Korean"
+      "Spanish (Spain)",
+      "Chinese (Simplified)"
     ],
     "release_dates": [
       {
