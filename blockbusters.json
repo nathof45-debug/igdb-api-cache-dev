@@ -1,120 +1,5 @@
 [
   {
-    "id": 329124,
-    "name": "Over the Hill",
-    "cover": {
-      "id": 435086,
-      "image_id": "co9bpq"
-    },
-    "rating": null,
-    "first_release_date": 1791936000,
-    "hypes": 28,
-    "status": null,
-    "follows": null,
-    "themes": [
-      33
-    ],
-    "pop_score": 8.0052148257e-05,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "platform_ids": [
-      169,
-      508,
-      6,
-      167
-    ],
-    "genres": [
-      "Racing",
-      "Simulator",
-      "Sport",
-      "Adventure",
-      "Indie"
-    ],
-    "genre_ids": [
-      10,
-      13,
-      14,
-      31,
-      32
-    ],
-    "developers": [
-      "Funselektor Labs",
-      "Strelka Games"
-    ],
-    "developer_ids": [
-      6100,
-      31389
-    ],
-    "publishers": [
-      "Funselektor Labs",
-      "Serenity Forge"
-    ],
-    "publisher_ids": [
-      6100,
-      6352
-    ],
-    "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Ukrainian",
-      "Dutch",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Portuguese (Brazil)",
-      "Spanish (Mexico)",
-      "Turkish",
-      "Chinese (Traditional)",
-      "Portuguese (Portugal)",
-      "Italian"
-    ],
-    "release_dates": [
-      {
-        "category": 2,
-        "y": 2027,
-        "m": 12,
-        "d": 31,
-        "date": 1830211200,
-        "status": null,
-        "platform_name": "Nintendo Switch 2"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 10,
-        "d": 14,
-        "date": 1791936000,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      },
-      {
-        "category": 2,
-        "y": 2027,
-        "m": 12,
-        "d": 31,
-        "date": 1830211200,
-        "status": null,
-        "platform_name": "PlayStation 5"
-      },
-      {
-        "category": 2,
-        "y": 2027,
-        "m": 12,
-        "d": 31,
-        "date": 1830211200,
-        "status": 6,
-        "platform_name": "Xbox Series X|S"
-      }
-    ]
-  },
-  {
     "id": 389434,
     "name": "Castlevania: Belmont's Curse",
     "cover": {
@@ -131,7 +16,7 @@
       17,
       19
     ],
-    "pop_score": 0.000165822307103,
+    "pop_score": 0.000169102465811,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -169,17 +54,17 @@
       129
     ],
     "languages": [
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
       "Russian",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
       "Spanish (Spain)",
+      "Japanese",
       "French",
       "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Portuguese (Brazil)",
-      "Chinese (Traditional)",
-      "Italian"
+      "Korean"
     ],
     "release_dates": [
       {
@@ -236,7 +121,7 @@
       1,
       39
     ],
-    "pop_score": 8.5770158846e-05,
+    "pop_score": 8.5693817134e-05,
     "platforms": [
       "Xbox Series X|S",
       "Nintendo Switch 2",
@@ -268,19 +153,19 @@
       66
     ],
     "languages": [
-      "Arabic",
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Polish",
-      "Portuguese (Brazil)",
       "Chinese (Traditional)",
-      "Italian"
+      "Portuguese (Brazil)",
+      "Polish",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
+      "Arabic",
+      "Japanese",
+      "Korean",
+      "French",
+      "Spanish (Spain)",
+      "English",
+      "Russian"
     ],
     "release_dates": [
       {
@@ -409,7 +294,7 @@
       1,
       38
     ],
-    "pop_score": 0.000363665473508,
+    "pop_score": 0.00036219920042,
     "platforms": [
       "PC (Microsoft Windows)",
       "PlayStation 5"
@@ -441,20 +326,20 @@
       16409
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Vietnamese",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Portuguese (Brazil)",
-      "Italian",
-      "Portuguese (Portugal)",
       "Chinese (Traditional)",
-      "Thai"
+      "Portuguese (Brazil)",
+      "Vietnamese",
+      "Portuguese (Portugal)",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
+      "Thai",
+      "Japanese",
+      "Russian",
+      "French",
+      "Spanish (Spain)",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -493,7 +378,7 @@
       1,
       17
     ],
-    "pop_score": 8.2339352492e-05,
+    "pop_score": 8.3408648677e-05,
     "platforms": [
       "Nintendo Switch 2"
     ],
@@ -519,21 +404,21 @@
       70
     ],
     "languages": [
-      "English (UK)",
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Dutch",
-      "Korean",
-      "Chinese (Simplified)",
+      "Chinese (Traditional)",
       "Portuguese (Brazil)",
-      "Polish",
+      "Dutch",
       "Spanish (Mexico)",
+      "Russian",
       "Japanese",
       "Italian",
-      "Chinese (Traditional)"
+      "Chinese (Simplified)",
+      "German",
+      "Spanish (Spain)",
+      "Korean",
+      "French",
+      "Polish",
+      "English",
+      "English (UK)"
     ],
     "release_dates": [
       {
@@ -565,7 +450,7 @@
       33,
       38
     ],
-    "pop_score": 0.0013505941013,
+    "pop_score": 0.001350534558031,
     "platforms": [
       "Xbox Series X|S",
       "PlayStation 5"
@@ -599,19 +484,19 @@
       139
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Portuguese (Brazil)",
-      "Polish",
-      "Japanese",
-      "Spanish (Mexico)",
       "Chinese (Traditional)",
-      "Italian"
+      "Portuguese (Brazil)",
+      "Spanish (Mexico)",
+      "Polish",
+      "French",
+      "Chinese (Simplified)",
+      "German",
+      "Japanese",
+      "Korean",
+      "Italian",
+      "Spanish (Spain)",
+      "English",
+      "Russian"
     ],
     "release_dates": [
       {
@@ -649,7 +534,7 @@
     "themes": [
       1
     ],
-    "pop_score": 7.8908546139e-05,
+    "pop_score": 7.8838311763e-05,
     "platforms": [
       "PC (Microsoft Windows)"
     ],
@@ -675,19 +560,19 @@
       423
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Portuguese (Brazil)",
-      "Polish",
-      "Japanese",
-      "Turkish",
       "Chinese (Traditional)",
-      "Italian"
+      "Turkish",
+      "Portuguese (Brazil)",
+      "Russian",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
+      "Spanish (Spain)",
+      "Japanese",
+      "French",
+      "Polish",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -726,7 +611,7 @@
       17,
       38
     ],
-    "pop_score": 0.000104067792734,
+    "pop_score": 0.000105117749018,
     "platforms": [
       "Xbox Series X|S",
       "Nintendo Switch 2",
@@ -758,15 +643,15 @@
       57363
     ],
     "languages": [
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
       "Portuguese (Brazil)",
-      "Italian"
+      "French",
+      "Chinese (Simplified)",
+      "German",
+      "Japanese",
+      "Italian",
+      "Spanish (Spain)",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -825,7 +710,7 @@
       27,
       43
     ],
-    "pop_score": 8.5770158846e-05,
+    "pop_score": 8.5693817134e-05,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)"
@@ -861,15 +746,15 @@
       64400
     ],
     "languages": [
-      "English (UK)",
+      "Portuguese (Brazil)",
+      "Italian",
+      "German",
       "Arabic",
-      "Russian",
       "Spanish (Spain)",
+      "Russian",
       "French",
       "English",
-      "German",
-      "Portuguese (Brazil)",
-      "Italian"
+      "English (UK)"
     ],
     "release_dates": [
       {
@@ -910,14 +795,14 @@
     },
     "rating": null,
     "first_release_date": 1796256000,
-    "hypes": 58,
+    "hypes": 59,
     "status": null,
     "follows": null,
     "themes": [
       1,
       27
     ],
-    "pop_score": 0.000115503813913,
+    "pop_score": 0.000116543591302,
     "platforms": [
       "Xbox Series X|S",
       "Nintendo Switch 2",
@@ -953,18 +838,18 @@
       104
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
+      "Chinese (Traditional)",
       "Dutch",
-      "Chinese (Simplified)",
+      "Portuguese (Brazil)",
       "Japanese",
       "Polish",
-      "Portuguese (Brazil)",
-      "Chinese (Traditional)",
-      "Italian"
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
+      "Spanish (Spain)",
+      "Russian",
+      "French",
+      "English"
     ],
     "release_dates": [
       {
@@ -1020,7 +905,7 @@
     "themes": [
       17
     ],
-    "pop_score": 0.000181832736754,
+    "pop_score": 0.000181670892324,
     "platforms": [
       "Xbox Series X|S",
       "Nintendo Switch 2",
@@ -1058,16 +943,16 @@
       1418
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
+      "Chinese (Traditional)",
       "Portuguese (Brazil)",
-      "Chinese (Traditional)"
+      "Russian",
+      "Chinese (Simplified)",
+      "German",
+      "Japanese",
+      "French",
+      "Spanish (Spain)",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -1133,7 +1018,7 @@
       1,
       21
     ],
-    "pop_score": 0.000136088652036,
+    "pop_score": 0.000135967523186,
     "platforms": [
       "PC (Microsoft Windows)",
       "PlayStation 5"
@@ -1167,18 +1052,18 @@
       58369
     ],
     "languages": [
-      "Russian",
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
+      "Korean",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
+      "Thai",
       "Spanish (Spain)",
+      "Japanese",
       "French",
       "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Portuguese (Brazil)",
-      "Chinese (Traditional)",
-      "Italian",
-      "Thai"
+      "Russian"
     ],
     "release_dates": [
       {
@@ -1270,7 +1155,7 @@
     "themes": [
       1
     ],
-    "pop_score": 9.2631771554e-05,
+    "pop_score": 9.3691906733e-05,
     "platforms": [
       "PC (Microsoft Windows)",
       "PlayStation 5"
@@ -1302,9 +1187,9 @@
       28276
     ],
     "languages": [
+      "Chinese (Traditional)",
       "Japanese",
       "English",
-      "Chinese (Traditional)",
       "Chinese (Simplified)"
     ],
     "release_dates": [
@@ -1343,7 +1228,7 @@
     "themes": [
       1
     ],
-    "pop_score": 0.000101780588498,
+    "pop_score": 0.000101689996332,
     "platforms": [
       "PC (Microsoft Windows)"
     ],
@@ -1403,7 +1288,7 @@
       1,
       23
     ],
-    "pop_score": 8.1195750375e-05,
+    "pop_score": 8.112348022e-05,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -1435,24 +1320,24 @@
       53877
     ],
     "languages": [
-      "Czech",
-      "Arabic",
-      "Russian",
-      "Spanish (Spain)",
-      "Hungarian",
-      "French",
-      "English",
-      "German",
-      "Ukrainian",
-      "Korean",
-      "Chinese (Simplified)",
-      "Portuguese (Brazil)",
-      "Polish",
-      "Japanese",
-      "Turkish",
       "Chinese (Traditional)",
+      "Czech",
+      "Portuguese (Brazil)",
+      "Turkish",
+      "Japanese",
+      "Hungarian",
       "Italian",
-      "Thai"
+      "Chinese (Simplified)",
+      "German",
+      "Thai",
+      "Ukrainian",
+      "Arabic",
+      "Spanish (Spain)",
+      "Korean",
+      "French",
+      "Polish",
+      "English",
+      "Russian"
     ],
     "release_dates": [
       {
@@ -1503,7 +1388,7 @@
       38,
       40
     ],
-    "pop_score": 0.000149811877452,
+    "pop_score": 0.000150821118156,
     "platforms": [
       "Android",
       "PC (Microsoft Windows)",
@@ -1537,21 +1422,21 @@
       5501
     ],
     "languages": [
-      "Arabic",
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "German",
-      "English",
-      "Vietnamese",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Polish",
       "Chinese (Traditional)",
+      "Japanese",
+      "Vietnamese",
       "Portuguese (Portugal)",
       "Italian",
-      "Thai"
+      "Chinese (Simplified)",
+      "German",
+      "Thai",
+      "Arabic",
+      "Spanish (Spain)",
+      "Russian",
+      "French",
+      "Polish",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -1601,7 +1486,7 @@
     },
     "rating": null,
     "first_release_date": 1799971200,
-    "hypes": 111,
+    "hypes": 112,
     "status": null,
     "follows": null,
     "themes": [
@@ -1609,7 +1494,7 @@
       22,
       38
     ],
-    "pop_score": 0.000169253113457,
+    "pop_score": 0.000170245050039,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -1645,18 +1530,18 @@
       112
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Polish",
-      "Portuguese (Brazil)",
       "Chinese (Traditional)",
-      "Italian"
+      "Portuguese (Brazil)",
+      "Russian",
+      "Polish",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
+      "Japanese",
+      "French",
+      "Spanish (Spain)",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -1705,7 +1590,7 @@
       19,
       21
     ],
-    "pop_score": 0.000204704779113,
+    "pop_score": 0.000205665161122,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -1737,19 +1622,19 @@
       423
     ],
     "languages": [
-      "Czech",
-      "Spanish (Spain)",
-      "Ukrainian",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Portuguese (Brazil)",
-      "Polish",
-      "Japanese",
-      "Turkish",
       "Chinese (Traditional)",
-      "Italian"
+      "Czech",
+      "Portuguese (Brazil)",
+      "Turkish",
+      "Chinese (Simplified)",
+      "German",
+      "Ukrainian",
+      "Spanish (Spain)",
+      "Japanese",
+      "Italian",
+      "Polish",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -1790,13 +1675,13 @@
     },
     "rating": null,
     "first_release_date": 1802390400,
-    "hypes": 144,
+    "hypes": 145,
     "status": null,
     "follows": null,
     "themes": [
       1
     ],
-    "pop_score": 0.000275608110426,
+    "pop_score": 0.000277647967514,
     "platforms": [
       "Xbox Series X|S",
       "Nintendo Switch 2",
@@ -1834,16 +1719,16 @@
       31045
     ],
     "languages": [
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Portuguese (Brazil)",
       "Chinese (Traditional)",
-      "Italian"
+      "Portuguese (Brazil)",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
+      "Japanese",
+      "French",
+      "Spanish (Spain)",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -1893,14 +1778,14 @@
     },
     "rating": null,
     "first_release_date": 1802736000,
-    "hypes": 111,
+    "hypes": 112,
     "status": null,
     "follows": null,
     "themes": [
       1,
       17
     ],
-    "pop_score": 0.000124652630857,
+    "pop_score": 0.00012568426513,
     "platforms": [
       "PlayStation 5"
     ],
@@ -1959,7 +1844,7 @@
       17,
       38
     ],
-    "pop_score": 0.000678156055945,
+    "pop_score": 0.000678695031701,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -1991,16 +1876,16 @@
       17966
     ],
     "languages": [
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Chinese (Simplified)",
-      "Spanish (Mexico)",
-      "Japanese",
-      "Polish",
       "Portuguese (Brazil)",
-      "Italian"
+      "Spanish (Mexico)",
+      "Polish",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
+      "Spanish (Spain)",
+      "Japanese",
+      "French",
+      "English"
     ],
     "release_dates": [
       {
@@ -2076,7 +1961,7 @@
       31,
       43
     ],
-    "pop_score": 0.000147524673216,
+    "pop_score": 0.00014739336547,
     "platforms": [
       "Xbox Series X|S",
       "Nintendo Switch 2",
@@ -2112,20 +1997,20 @@
       112
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Polish",
-      "Portuguese (Brazil)",
-      "Turkish",
       "Chinese (Traditional)",
+      "Turkish",
+      "Portuguese (Brazil)",
+      "Russian",
+      "Polish",
       "Italian",
-      "Thai"
+      "Chinese (Simplified)",
+      "German",
+      "Thai",
+      "Japanese",
+      "French",
+      "Spanish (Spain)",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -2175,14 +2060,14 @@
     },
     "rating": null,
     "first_release_date": 1804550400,
-    "hypes": 44,
+    "hypes": 45,
     "status": null,
     "follows": null,
     "themes": [
       43,
       44
     ],
-    "pop_score": 9.491897579e-05,
+    "pop_score": 9.597707519e-05,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -2218,15 +2103,15 @@
       55046
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Chinese (Simplified)",
       "Chinese (Traditional)",
       "Portuguese (Portugal)",
-      "Italian"
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
+      "Russian",
+      "French",
+      "Spanish (Spain)",
+      "English"
     ],
     "release_dates": [
       {
@@ -2283,7 +2168,7 @@
       1,
       17
     ],
-    "pop_score": 0.000102924190616,
+    "pop_score": 0.000103975164789,
     "platforms": [
       "Xbox Series X|S",
       "Nintendo Switch 2",
@@ -2317,19 +2202,19 @@
       1212
     ],
     "languages": [
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
       "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
+      "Polish",
+      "Italian",
+      "Chinese (Simplified)",
       "German",
       "Ukrainian",
-      "Korean",
-      "Chinese (Simplified)",
+      "Spanish (Spain)",
       "Japanese",
-      "Polish",
-      "Portuguese (Brazil)",
-      "Chinese (Traditional)",
-      "Italian"
+      "French",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -2383,7 +2268,7 @@
     "status": null,
     "follows": null,
     "themes": [],
-    "pop_score": 9.0344567318e-05,
+    "pop_score": 9.1406738276e-05,
     "platforms": [
       "Xbox Series X|S",
       "Nintendo Switch 2",
@@ -2469,7 +2354,7 @@
     "status": null,
     "follows": null,
     "themes": [],
-    "pop_score": 8.2339352492e-05,
+    "pop_score": 8.2266064449e-05,
     "platforms": [
       "PC (Microsoft Windows)"
     ],
@@ -2495,16 +2380,16 @@
       38177
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Chinese (Simplified)",
+      "Chinese (Traditional)",
       "Portuguese (Brazil)",
       "Polish",
       "Italian",
-      "Chinese (Traditional)"
+      "Chinese (Simplified)",
+      "German",
+      "Russian",
+      "French",
+      "Spanish (Spain)",
+      "English"
     ],
     "release_dates": [
       {
@@ -2534,7 +2419,7 @@
       1,
       18
     ],
-    "pop_score": 0.000265315691365,
+    "pop_score": 0.000265079541001,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -2566,16 +2451,16 @@
       1023
     ],
     "languages": [
+      "Portuguese (Brazil)",
       "Russian",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
       "Spanish (Spain)",
+      "Japanese",
       "French",
       "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Portuguese (Brazil)",
-      "Italian"
+      "Korean"
     ],
     "release_dates": [
       {
@@ -2624,7 +2509,7 @@
       17,
       38
     ],
-    "pop_score": 0.000124652630857,
+    "pop_score": 0.000124541680901,
     "platforms": [
       "Xbox Series X|S",
       "Nintendo Switch 2",
@@ -2658,16 +2543,16 @@
       26
     ],
     "languages": [
-      "Spanish (Spain)",
-      "French",
-      "German",
-      "English",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Portuguese (Brazil)",
       "Chinese (Traditional)",
-      "Italian"
+      "Portuguese (Brazil)",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
+      "Japanese",
+      "French",
+      "Spanish (Spain)",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -2760,7 +2645,7 @@
       1,
       43
     ],
-    "pop_score": 9.9493384262e-05,
+    "pop_score": 9.9404827875e-05,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -2796,17 +2681,17 @@
       28837
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Spanish (Mexico)",
-      "Japanese",
       "Portuguese (Brazil)",
+      "Spanish (Mexico)",
+      "Russian",
       "Portuguese (Portugal)",
-      "Italian"
+      "Chinese (Simplified)",
+      "German",
+      "Spanish (Spain)",
+      "Japanese",
+      "Italian",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -2863,7 +2748,7 @@
       1,
       18
     ],
-    "pop_score": 0.000212709993939,
+    "pop_score": 0.000213663250721,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -2897,12 +2782,12 @@
       13310
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
+      "Chinese (Simplified)",
       "German",
-      "Chinese (Simplified)"
+      "Russian",
+      "French",
+      "Spanish (Spain)",
+      "English"
     ],
     "release_dates": [
       {
@@ -2962,6 +2847,77 @@
     ]
   },
   {
+    "id": 19128,
+    "name": "Squadron 42",
+    "cover": {
+      "id": 611332,
+      "image_id": "cod3pg"
+    },
+    "rating": null,
+    "first_release_date": 1814313600,
+    "hypes": 60,
+    "status": null,
+    "follows": null,
+    "themes": [
+      1,
+      18
+    ],
+    "pop_score": 9.1406738276e-05,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "platform_ids": [
+      6
+    ],
+    "genres": [
+      "Shooter",
+      "Simulator",
+      "Adventure",
+      "Indie"
+    ],
+    "genre_ids": [
+      5,
+      13,
+      31,
+      32
+    ],
+    "developers": [
+      "Cloud Imperium Games Corporation"
+    ],
+    "developer_ids": [
+      873
+    ],
+    "publishers": [
+      "Cloud Imperium Games Corporation"
+    ],
+    "publisher_ids": [
+      873
+    ],
+    "languages": [
+      "Portuguese (Brazil)",
+      "Spanish (Mexico)",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
+      "Japanese",
+      "Korean",
+      "French",
+      "Spanish (Spain)",
+      "English"
+    ],
+    "release_dates": [
+      {
+        "category": 4,
+        "y": 2027,
+        "m": 6,
+        "d": 30,
+        "date": 1814313600,
+        "status": 6,
+        "platform_name": "PC (Microsoft Windows)"
+      }
+    ]
+  },
+  {
     "id": 325600,
     "name": "Turok: Origins",
     "cover": {
@@ -2977,7 +2933,7 @@
       1,
       18
     ],
-    "pop_score": 0.000105211394852,
+    "pop_score": 0.000106260333246,
     "platforms": [
       "Xbox Series X|S",
       "Nintendo Switch 2",
@@ -3011,12 +2967,12 @@
       946
     ],
     "languages": [
-      "Spanish (Spain)",
-      "French",
-      "English",
+      "Italian",
       "German",
       "Japanese",
-      "Italian"
+      "French",
+      "Spanish (Spain)",
+      "English"
     ],
     "release_dates": [
       {
@@ -3067,77 +3023,6 @@
     ]
   },
   {
-    "id": 19128,
-    "name": "Squadron 42",
-    "cover": {
-      "id": 611332,
-      "image_id": "cod3pg"
-    },
-    "rating": null,
-    "first_release_date": 1814313600,
-    "hypes": 60,
-    "status": null,
-    "follows": null,
-    "themes": [
-      1,
-      18
-    ],
-    "pop_score": 8.6913760964e-05,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "platform_ids": [
-      6
-    ],
-    "genres": [
-      "Shooter",
-      "Simulator",
-      "Adventure",
-      "Indie"
-    ],
-    "genre_ids": [
-      5,
-      13,
-      31,
-      32
-    ],
-    "developers": [
-      "Cloud Imperium Games Corporation"
-    ],
-    "developer_ids": [
-      873
-    ],
-    "publishers": [
-      "Cloud Imperium Games Corporation"
-    ],
-    "publisher_ids": [
-      873
-    ],
-    "languages": [
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Portuguese (Brazil)",
-      "Spanish (Mexico)",
-      "Italian"
-    ],
-    "release_dates": [
-      {
-        "category": 4,
-        "y": 2027,
-        "m": 6,
-        "d": 30,
-        "date": 1814313600,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
     "id": 165432,
     "name": "Spine",
     "cover": {
@@ -3152,7 +3037,7 @@
     "themes": [
       1
     ],
-    "pop_score": 0.000125796232975,
+    "pop_score": 0.000126826849358,
     "platforms": [
       "Xbox Series X|S",
       "Nintendo Switch 2",
@@ -3188,19 +3073,19 @@
       13469
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "German",
-      "English",
-      "Korean",
-      "Chinese (Simplified)",
-      "Portuguese (Brazil)",
-      "Japanese",
+      "Chinese (Traditional)",
       "Turkish",
-      "Italian",
+      "Portuguese (Brazil)",
+      "French",
       "Portuguese (Portugal)",
-      "Chinese (Traditional)"
+      "Chinese (Simplified)",
+      "German",
+      "Japanese",
+      "Russian",
+      "Italian",
+      "Spanish (Spain)",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -3259,7 +3144,7 @@
       31,
       43
     ],
-    "pop_score": 0.000291618540078,
+    "pop_score": 0.000292501562484,
     "platforms": [
       "Xbox Series X|S",
       "Nintendo Switch 2",
@@ -3373,7 +3258,7 @@
       19,
       21
     ],
-    "pop_score": 0.000261884885011,
+    "pop_score": 0.000262794372544,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -3405,17 +3290,17 @@
       31188
     ],
     "languages": [
-      "Russian",
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
+      "Japanese",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
       "Spanish (Spain)",
+      "Russian",
       "French",
       "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Portuguese (Brazil)",
-      "Chinese (Traditional)",
-      "Italian"
+      "Korean"
     ],
     "release_dates": [
       {
@@ -3462,7 +3347,7 @@
     "themes": [
       1
     ],
-    "pop_score": 0.000236725638416,
+    "pop_score": 0.00023651493529,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)"
@@ -3490,13 +3375,13 @@
       17966
     ],
     "languages": [
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
       "Portuguese (Brazil)",
       "Polish",
-      "Italian"
+      "Italian",
+      "German",
+      "French",
+      "Spanish (Spain)",
+      "English"
     ],
     "release_dates": [
       {
@@ -3528,7 +3413,7 @@
     },
     "rating": null,
     "first_release_date": 1830211200,
-    "hypes": 109,
+    "hypes": 110,
     "status": null,
     "follows": null,
     "themes": [
@@ -3536,7 +3421,7 @@
       19,
       21
     ],
-    "pop_score": 0.000220715208765,
+    "pop_score": 0.00022166134032,
     "platforms": [
       "Xbox Series X|S",
       "Nintendo Switch 2",
@@ -3572,19 +3457,19 @@
       37
     ],
     "languages": [
-      "Arabic",
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Polish",
-      "Portuguese (Brazil)",
       "Chinese (Traditional)",
-      "Italian"
+      "Portuguese (Brazil)",
+      "Russian",
+      "Polish",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
+      "Arabic",
+      "Japanese",
+      "French",
+      "Spanish (Spain)",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -3640,7 +3525,7 @@
     "themes": [
       1
     ],
-    "pop_score": 0.000148668275334,
+    "pop_score": 0.000148535949699,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -3670,13 +3555,13 @@
       17966
     ],
     "languages": [
+      "Portuguese (Brazil)",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
       "Russian",
       "French",
-      "English",
-      "German",
-      "Chinese (Simplified)",
-      "Portuguese (Brazil)",
-      "Italian"
+      "English"
     ],
     "release_dates": [
       {
@@ -3717,14 +3602,14 @@
     },
     "rating": null,
     "first_release_date": 1830211200,
-    "hypes": 133,
+    "hypes": 135,
     "status": null,
     "follows": null,
     "themes": [
       1,
       18
     ],
-    "pop_score": 0.000153242683805,
+    "pop_score": 0.000154248870841,
     "platforms": [
       "PlayStation 5"
     ],
@@ -3780,7 +3665,7 @@
       1,
       18
     ],
-    "pop_score": 0.000182976338872,
+    "pop_score": 0.000183956060781,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -3814,14 +3699,14 @@
       41542
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "English",
+      "Portuguese (Brazil)",
+      "Chinese (Simplified)",
       "German",
       "Korean",
-      "Chinese (Simplified)",
-      "Portuguese (Brazil)",
-      "Italian"
+      "Italian",
+      "Spanish (Spain)",
+      "English",
+      "Russian"
     ],
     "release_dates": [
       {
@@ -3862,7 +3747,7 @@
     },
     "rating": null,
     "first_release_date": 1830211200,
-    "hypes": 79,
+    "hypes": 80,
     "status": null,
     "follows": null,
     "themes": [
@@ -3872,7 +3757,7 @@
       20,
       43
     ],
-    "pop_score": 0.000162391500749,
+    "pop_score": 0.000163389544669,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -3906,16 +3791,16 @@
       37893
     ],
     "languages": [
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
       "Russian",
+      "Chinese (Simplified)",
+      "German",
       "Spanish (Spain)",
+      "Japanese",
       "French",
       "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Portuguese (Brazil)",
-      "Chinese (Traditional)"
+      "Korean"
     ],
     "release_dates": [
       {
@@ -3962,7 +3847,7 @@
     "themes": [
       1
     ],
-    "pop_score": 0.000112073007559,
+    "pop_score": 0.000113115838617,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -4039,7 +3924,7 @@
       19,
       21
     ],
-    "pop_score": 9.7206180026e-05,
+    "pop_score": 9.7119659418e-05,
     "platforms": [
       "PC (Microsoft Windows)",
       "PlayStation 5"
@@ -4071,19 +3956,19 @@
       11662
     ],
     "languages": [
+      "Chinese (Traditional)",
+      "Turkish",
+      "Portuguese (Brazil)",
       "Russian",
+      "Polish",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
       "Spanish (Spain)",
+      "Japanese",
       "French",
       "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Polish",
-      "Portuguese (Brazil)",
-      "Turkish",
-      "Italian",
-      "Chinese (Traditional)"
+      "Korean"
     ],
     "release_dates": [
       {
@@ -4122,7 +4007,7 @@
       1,
       17
     ],
-    "pop_score": 0.000104067792734,
+    "pop_score": 0.000103975164789,
     "platforms": [
       "Xbox Series X|S",
       "Nintendo Switch 2",
@@ -4160,17 +4045,17 @@
       13016
     ],
     "languages": [
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
+      "Chinese (Traditional)",
       "Portuguese (Brazil)",
-      "Japanese",
       "Spanish (Mexico)",
+      "French",
+      "Chinese (Simplified)",
+      "German",
+      "Japanese",
+      "Korean",
       "Italian",
-      "Chinese (Traditional)"
+      "English",
+      "Spanish (Spain)"
     ],
     "release_dates": [
       {
@@ -4228,7 +4113,7 @@
       19,
       21
     ],
-    "pop_score": 0.000107498599087,
+    "pop_score": 0.000107402917475,
     "platforms": [
       "Xbox Series X|S",
       "PlayStation 4",
@@ -4264,20 +4149,20 @@
       16437
     ],
     "languages": [
+      "Turkish",
+      "Portuguese (Brazil)",
+      "Portuguese (Portugal)",
+      "Italian",
+      "Chinese (Simplified)",
       "Finnish",
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
       "German",
       "Ukrainian",
-      "Chinese (Simplified)",
-      "Portuguese (Brazil)",
-      "Polish",
+      "Spanish (Spain)",
       "Japanese",
-      "Turkish",
-      "Portuguese (Portugal)",
-      "Italian"
+      "French",
+      "Polish",
+      "English",
+      "Russian"
     ],
     "release_dates": [
       {
@@ -4336,7 +4221,7 @@
       33,
       38
     ],
-    "pop_score": 9.9493384262e-05,
+    "pop_score": 9.9404827875e-05,
     "platforms": [
       "Xbox Series X|S",
       "Nintendo Switch 2",
@@ -4372,20 +4257,20 @@
       112
     ],
     "languages": [
-      "Arabic",
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
+      "Chinese (Traditional)",
       "Portuguese (Brazil)",
       "Polish",
-      "Chinese (Traditional)",
+      "Korean",
       "Italian",
-      "Thai"
+      "Chinese (Simplified)",
+      "German",
+      "Thai",
+      "Arabic",
+      "Japanese",
+      "French",
+      "Spanish (Spain)",
+      "English",
+      "Russian"
     ],
     "release_dates": [
       {
@@ -4439,7 +4324,7 @@
     "status": null,
     "follows": null,
     "themes": [],
-    "pop_score": 0.000109785803323,
+    "pop_score": 0.000109688085931,
     "platforms": [
       "Linux",
       "PC (Microsoft Windows)",
@@ -4477,9 +4362,9 @@
       62954
     ],
     "languages": [
+      "Japanese",
       "Portuguese (Brazil)",
       "English",
-      "Japanese",
       "Chinese (Simplified)"
     ],
     "release_dates": [
@@ -4534,7 +4419,7 @@
     "status": null,
     "follows": null,
     "themes": [],
-    "pop_score": 9.7206180026e-05,
+    "pop_score": 9.7119659418e-05,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -4568,14 +4453,14 @@
       5501
     ],
     "languages": [
-      "Spanish (Spain)",
+      "Chinese (Traditional)",
       "French",
-      "English",
-      "German",
-      "Korean",
       "Chinese (Simplified)",
+      "German",
       "Japanese",
-      "Chinese (Traditional)"
+      "Korean",
+      "Spanish (Spain)",
+      "English"
     ],
     "release_dates": [
       {
@@ -4624,7 +4509,7 @@
       22,
       33
     ],
-    "pop_score": 0.000102924190616,
+    "pop_score": 0.000102832580561,
     "platforms": [
       "PC (Microsoft Windows)"
     ],
@@ -4654,22 +4539,22 @@
       77747
     ],
     "languages": [
+      "Chinese (Traditional)",
+      "Turkish",
       "Czech",
+      "Portuguese (Brazil)",
+      "Spanish (Mexico)",
       "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
+      "Polish",
+      "Italian",
+      "Chinese (Simplified)",
       "German",
       "Ukrainian",
-      "Korean",
-      "Chinese (Simplified)",
       "Japanese",
-      "Polish",
-      "Portuguese (Brazil)",
-      "Turkish",
-      "Spanish (Mexico)",
-      "Chinese (Traditional)",
-      "Italian"
+      "French",
+      "Spanish (Spain)",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -4699,7 +4584,7 @@
       18,
       43
     ],
-    "pop_score": 9.0344567318e-05,
+    "pop_score": 9.0264154048e-05,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -4731,15 +4616,15 @@
       5040
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "German",
-      "English",
-      "Korean",
-      "Chinese (Simplified)",
       "Portuguese (Brazil)",
-      "Japanese"
+      "French",
+      "Chinese (Simplified)",
+      "German",
+      "Spanish (Spain)",
+      "Japanese",
+      "Korean",
+      "English",
+      "Russian"
     ],
     "release_dates": [
       {
@@ -4797,7 +4682,7 @@
       17,
       38
     ],
-    "pop_score": 9.8349782144e-05,
+    "pop_score": 9.8262243647e-05,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -4829,15 +4714,15 @@
       1023
     ],
     "languages": [
+      "Portuguese (Brazil)",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
       "Spanish (Spain)",
+      "Japanese",
       "French",
       "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Portuguese (Brazil)",
-      "Japanese",
-      "Italian"
+      "Korean"
     ],
     "release_dates": [
       {
@@ -4885,7 +4770,7 @@
       1,
       17
     ],
-    "pop_score": 0.000102924190616,
+    "pop_score": 0.000103975164789,
     "platforms": [
       "PC (Microsoft Windows)",
       "PlayStation 5"
@@ -4915,20 +4800,20 @@
       10100
     ],
     "languages": [
-      "Arabic",
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Polish",
-      "Portuguese (Brazil)",
       "Chinese (Traditional)",
+      "Portuguese (Brazil)",
+      "Russian",
+      "Polish",
       "Portuguese (Portugal)",
-      "Italian"
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
+      "Arabic",
+      "Japanese",
+      "French",
+      "Spanish (Spain)",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -4971,7 +4856,7 @@
       43,
       44
     ],
-    "pop_score": 8.4626556728e-05,
+    "pop_score": 8.4551232906e-05,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -5005,17 +4890,17 @@
       34920
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "Ukrainian",
-      "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
+      "Chinese (Traditional)",
       "Portuguese (Brazil)",
-      "Japanese",
       "Portuguese (Portugal)",
-      "Chinese (Traditional)"
+      "Chinese (Simplified)",
+      "German",
+      "Ukrainian",
+      "Spanish (Spain)",
+      "Japanese",
+      "Korean",
+      "English",
+      "Russian"
     ],
     "release_dates": [
       {
@@ -5060,7 +4945,7 @@
     "status": null,
     "follows": null,
     "themes": [],
-    "pop_score": 8.0052148257e-05,
+    "pop_score": 7.9980895992e-05,
     "platforms": [
       "PC (Microsoft Windows)",
       "Mac"
@@ -5098,17 +4983,17 @@
       47935
     ],
     "languages": [
-      "Spanish (Spain)",
-      "French",
-      "English",
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
+      "Italian",
+      "Chinese (Simplified)",
       "German",
       "Ukrainian",
-      "Korean",
-      "Chinese (Simplified)",
       "Japanese",
-      "Portuguese (Brazil)",
-      "Chinese (Traditional)",
-      "Italian"
+      "French",
+      "Spanish (Spain)",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -5146,7 +5031,7 @@
     "themes": [
       1
     ],
-    "pop_score": 8.6913760964e-05,
+    "pop_score": 8.6836401362e-05,
     "platforms": [
       "PC (Microsoft Windows)",
       "Mac"
@@ -5184,19 +5069,19 @@
       37893
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
-      "French",
-      "English",
-      "German",
-      "Ukrainian",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
+      "Chinese (Traditional)",
       "Portuguese (Brazil)",
+      "Russian",
       "Polish",
       "Italian",
-      "Chinese (Traditional)"
+      "Chinese (Simplified)",
+      "German",
+      "Ukrainian",
+      "Spanish (Spain)",
+      "Japanese",
+      "French",
+      "English",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -5234,7 +5119,7 @@
     "themes": [
       1
     ],
-    "pop_score": 7.7764944021e-05,
+    "pop_score": 7.7695727535e-05,
     "platforms": [
       "PC (Microsoft Windows)"
     ],
@@ -5260,18 +5145,18 @@
       12186
     ],
     "languages": [
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
       "Russian",
+      "Polish",
+      "Italian",
+      "Chinese (Simplified)",
+      "German",
       "Spanish (Spain)",
+      "Japanese",
       "French",
       "English",
-      "German",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Polish",
-      "Portuguese (Brazil)",
-      "Chinese (Traditional)",
-      "Italian"
+      "Korean"
     ],
     "release_dates": [
       {
@@ -5302,7 +5187,7 @@
       17,
       19
     ],
-    "pop_score": 7.7764944021e-05,
+    "pop_score": 7.9980895992e-05,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -5332,30 +5217,30 @@
       17966
     ],
     "languages": [
-      "Norwegian",
       "Czech",
-      "Arabic",
-      "Russian",
-      "French",
-      "Chinese (Simplified)",
-      "Japanese",
-      "Portuguese (Brazil)",
-      "Chinese (Traditional)",
       "Dutch",
-      "Korean",
-      "Spanish (Mexico)",
-      "Polish",
-      "Hungarian",
-      "Spanish (Spain)",
-      "English",
-      "Turkish",
-      "Italian",
+      "Portuguese (Brazil)",
       "Danish",
       "Portuguese (Portugal)",
-      "Finnish",
-      "Ukrainian",
+      "Korean",
+      "Spanish (Mexico)",
+      "Hungarian",
       "German",
-      "Swedish"
+      "Arabic",
+      "Russian",
+      "Polish",
+      "English",
+      "Swedish",
+      "Chinese (Simplified)",
+      "Japanese",
+      "Italian",
+      "Chinese (Traditional)",
+      "Turkish",
+      "Finnish",
+      "Norwegian",
+      "Ukrainian",
+      "French",
+      "Spanish (Spain)"
     ],
     "release_dates": [
       {
@@ -5405,7 +5290,7 @@
       31,
       38
     ],
-    "pop_score": 0.000363665473508,
+    "pop_score": 0.000364484368876,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -5476,13 +5361,13 @@
     },
     "rating": null,
     "first_release_date": 1861833600,
-    "hypes": 117,
+    "hypes": 118,
     "status": null,
     "follows": null,
     "themes": [
       1
     ],
-    "pop_score": 0.000130370641446,
+    "pop_score": 0.000132539770501,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -5564,7 +5449,7 @@
       21,
       38
     ],
-    "pop_score": 9.1488169436e-05,
+    "pop_score": 9.1406738276e-05,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)"
@@ -5638,7 +5523,7 @@
       23,
       43
     ],
-    "pop_score": 9.7206180026e-05,
+    "pop_score": 9.8262243647e-05,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
@@ -5674,8 +5559,8 @@
       16310
     ],
     "languages": [
-      "English",
-      "German"
+      "German",
+      "English"
     ],
     "release_dates": [
       {
@@ -5722,7 +5607,7 @@
     "themes": [
       1
     ],
-    "pop_score": 0.00013951945839,
+    "pop_score": 0.000139395275871,
     "platforms": [
       "Linux",
       "PC (Microsoft Windows)",
