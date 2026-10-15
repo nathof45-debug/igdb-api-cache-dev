@@ -1,226 +1,5 @@
 [
   {
-    "id": 259339,
-    "name": "Ratatan",
-    "cover": {
-      "id": 515913,
-      "image_id": "cob22x"
-    },
-    "rating": null,
-    "first_release_date": 1758153600,
-    "hypes": 18,
-    "status": null,
-    "follows": null,
-    "themes": [
-      1,
-      17
-    ],
-    "pop_score": null,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "platform_ids": [
-      169,
-      508,
-      6,
-      167
-    ],
-    "genres": [
-      "Music",
-      "Role-playing (RPG)",
-      "Strategy",
-      "Adventure",
-      "Indie"
-    ],
-    "genre_ids": [
-      7,
-      12,
-      15,
-      31,
-      32
-    ],
-    "developers": [
-      "Ratata Arts"
-    ],
-    "developer_ids": [
-      48763
-    ],
-    "publishers": [
-      "Game Source Entertainment"
-    ],
-    "publisher_ids": [
-      63772
-    ],
-    "languages": [
-      "German",
-      "Spanish (Spain)",
-      "Japanese",
-      "Italian",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Korean",
-      "English",
-      "Portuguese (Portugal)",
-      "French"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2025,
-        "m": 9,
-        "d": 18,
-        "date": 1758153600,
-        "status": 3,
-        "platform_name": "PC (Microsoft Windows)"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 10,
-        "d": 15,
-        "date": 1792022400,
-        "status": 6,
-        "platform_name": "Nintendo Switch 2"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 10,
-        "d": 15,
-        "date": 1792022400,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 10,
-        "d": 15,
-        "date": 1792022400,
-        "status": 6,
-        "platform_name": "PlayStation 5"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 10,
-        "d": 15,
-        "date": 1792022400,
-        "status": 6,
-        "platform_name": "Xbox Series X|S"
-      }
-    ]
-  },
-  {
-    "id": 389434,
-    "name": "Castlevania: Belmont's Curse",
-    "cover": {
-      "id": 595618,
-      "image_id": "cocrky"
-    },
-    "rating": null,
-    "first_release_date": 1792022400,
-    "hypes": 81,
-    "status": null,
-    "follows": null,
-    "themes": [
-      1,
-      17,
-      19
-    ],
-    "pop_score": null,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Nintendo Switch"
-    ],
-    "platform_ids": [
-      169,
-      6,
-      167,
-      130
-    ],
-    "genres": [
-      "Platform",
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ],
-    "genre_ids": [
-      8,
-      12,
-      25,
-      31
-    ],
-    "developers": [
-      "Evil Empire"
-    ],
-    "developer_ids": [
-      39329
-    ],
-    "publishers": [
-      "Konami"
-    ],
-    "publisher_ids": [
-      129
-    ],
-    "languages": [
-      "German",
-      "Spanish (Spain)",
-      "Japanese",
-      "Italian",
-      "Portuguese (Brazil)",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Korean",
-      "Russian",
-      "English",
-      "French"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 10,
-        "d": 15,
-        "date": 1792022400,
-        "status": 6,
-        "platform_name": "Nintendo Switch"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 10,
-        "d": 15,
-        "date": 1792022400,
-        "status": 6,
-        "platform_name": "PlayStation 5"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 10,
-        "d": 15,
-        "date": 1792022400,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 10,
-        "d": 15,
-        "date": 1792022400,
-        "status": 6,
-        "platform_name": "Xbox Series X|S"
-      }
-    ]
-  },
-  {
     "id": 19686,
     "name": "Resident Evil 2",
     "cover": {
@@ -279,20 +58,20 @@
       37
     ],
     "languages": [
-      "German",
-      "Spanish (Spain)",
-      "Japanese",
-      "Italian",
-      "Arabic",
-      "Thai",
-      "Portuguese (Brazil)",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Korean",
       "Russian",
+      "Italian",
+      "Japanese",
+      "Arabic",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Korean",
+      "Polish",
+      "Thai",
+      "Chinese (Traditional)",
       "English",
-      "French",
-      "Polish"
+      "Chinese (Simplified)",
+      "German",
+      "French"
     ],
     "release_dates": [
       {
@@ -428,20 +207,20 @@
       37
     ],
     "languages": [
-      "German",
-      "Spanish (Spain)",
-      "Japanese",
-      "Italian",
-      "Arabic",
-      "Thai",
-      "Portuguese (Brazil)",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Korean",
       "Russian",
+      "Italian",
+      "Japanese",
+      "Arabic",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Polish",
+      "Korean",
+      "Thai",
+      "Chinese (Traditional)",
       "English",
-      "French",
-      "Polish"
+      "Chinese (Simplified)",
+      "German",
+      "French"
     ],
     "release_dates": [
       {
@@ -577,20 +356,20 @@
       37
     ],
     "languages": [
-      "Spanish (Mexico)",
-      "German",
-      "Spanish (Spain)",
-      "Japanese",
-      "Italian",
-      "Arabic",
-      "Portuguese (Brazil)",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Korean",
       "Russian",
+      "Italian",
+      "Japanese",
+      "Arabic",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Spanish (Mexico)",
+      "Korean",
+      "Polish",
+      "Chinese (Traditional)",
       "English",
-      "French",
-      "Polish"
+      "Chinese (Simplified)",
+      "German",
+      "French"
     ],
     "release_dates": [
       {
@@ -715,10 +494,10 @@
       9190
     ],
     "languages": [
-      "Spanish (Mexico)",
-      "Spanish (Spain)",
       "Japanese",
+      "Spanish (Spain)",
       "Portuguese (Brazil)",
+      "Spanish (Mexico)",
       "English"
     ],
     "release_dates": [
@@ -817,19 +596,19 @@
       66
     ],
     "languages": [
-      "German",
-      "Spanish (Spain)",
-      "Japanese",
-      "Italian",
-      "Arabic",
-      "Portuguese (Brazil)",
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Korean",
       "Russian",
+      "Italian",
+      "Japanese",
+      "Arabic",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Korean",
+      "Polish",
+      "Chinese (Traditional)",
       "English",
-      "French",
-      "Polish"
+      "Chinese (Simplified)",
+      "German",
+      "French"
     ],
     "release_dates": [
       {
@@ -996,18 +775,18 @@
       4133
     ],
     "languages": [
-      "German",
-      "Spanish (Spain)",
+      "Russian",
       "Japanese",
       "Italian",
-      "Turkish",
+      "Spanish (Spain)",
       "Portuguese (Brazil)",
-      "Chinese (Simplified)",
       "Korean",
-      "Russian",
+      "Turkish",
+      "Polish",
       "English",
-      "French",
-      "Polish"
+      "Chinese (Simplified)",
+      "German",
+      "French"
     ],
     "release_dates": [
       {
@@ -1105,15 +884,15 @@
       634
     ],
     "languages": [
-      "German",
-      "Spanish (Spain)",
-      "Japanese",
-      "Portuguese (Brazil)",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Korean",
       "Russian",
+      "Japanese",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Korean",
+      "Chinese (Traditional)",
       "English",
+      "Chinese (Simplified)",
+      "German",
       "French"
     ],
     "release_dates": [
@@ -1195,22 +974,22 @@
       12226
     ],
     "languages": [
-      "German",
-      "Arabic",
-      "Japanese",
-      "Italian",
-      "Spanish (Spain)",
-      "Turkish",
-      "Portuguese (Brazil)",
-      "Dutch",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Korean",
-      "Ukrainian",
       "Russian",
+      "Italian",
+      "Japanese",
+      "Arabic",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Korean",
+      "Polish",
+      "Turkish",
+      "Dutch",
+      "Ukrainian",
+      "Chinese (Traditional)",
       "English",
-      "French",
-      "Polish"
+      "Chinese (Simplified)",
+      "German",
+      "French"
     ],
     "release_dates": [
       {
@@ -1301,15 +1080,15 @@
       32650
     ],
     "languages": [
-      "German",
-      "Czech",
-      "Spanish (Spain)",
-      "Japanese",
-      "Hungarian",
-      "Portuguese (Brazil)",
-      "Chinese (Simplified)",
       "Russian",
+      "Hungarian",
+      "Japanese",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Czech",
       "English",
+      "Chinese (Simplified)",
+      "German",
       "French"
     ],
     "release_dates": [
@@ -1414,18 +1193,18 @@
       72163
     ],
     "languages": [
-      "German",
-      "Spanish (Spain)",
-      "Japanese",
-      "Italian",
-      "Portuguese (Brazil)",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Korean",
       "Russian",
+      "Italian",
+      "Japanese",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Polish",
+      "Korean",
+      "Chinese (Traditional)",
       "English",
-      "French",
-      "Polish"
+      "Chinese (Simplified)",
+      "German",
+      "French"
     ],
     "release_dates": [
       {
@@ -1497,19 +1276,19 @@
       1474
     ],
     "languages": [
-      "Spanish (Mexico)",
-      "German",
-      "Spanish (Spain)",
-      "Japanese",
-      "Arabic",
-      "Italian",
-      "Thai",
-      "Portuguese (Brazil)",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Korean",
       "Russian",
+      "Japanese",
+      "Italian",
+      "Arabic",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Spanish (Mexico)",
+      "Korean",
+      "Thai",
+      "Chinese (Traditional)",
       "English",
+      "Chinese (Simplified)",
+      "German",
       "French"
     ],
     "release_dates": [
@@ -1633,23 +1412,23 @@
       70
     ],
     "languages": [
-      "Spanish (Mexico)",
-      "German",
-      "Spanish (Spain)",
-      "Japanese",
-      "Italian",
-      "English (UK)",
-      "Thai",
-      "Portuguese (Brazil)",
-      "Dutch",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Korean",
       "Russian",
-      "English",
+      "English (UK)",
+      "Italian",
       "Portuguese (Portugal)",
-      "French",
-      "Polish"
+      "Japanese",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Spanish (Mexico)",
+      "Polish",
+      "Korean",
+      "Dutch",
+      "Thai",
+      "Chinese (Traditional)",
+      "English",
+      "Chinese (Simplified)",
+      "German",
+      "French"
     ],
     "release_dates": [
       {
@@ -1716,13 +1495,13 @@
       26
     ],
     "languages": [
-      "German",
-      "Spanish (Spain)",
       "Japanese",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
+      "Spanish (Spain)",
       "Korean",
+      "Chinese (Traditional)",
       "English",
+      "Chinese (Simplified)",
+      "German",
       "French"
     ],
     "release_dates": [
@@ -1770,111 +1549,6 @@
         "date": 1792627200,
         "status": 6,
         "platform_name": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
-    "id": 262678,
-    "name": "Tormented Souls II",
-    "cover": {
-      "id": 463998,
-      "image_id": "co9y0u"
-    },
-    "rating": 90.0808855794274,
-    "first_release_date": 1761177600,
-    "hypes": 24,
-    "status": null,
-    "follows": null,
-    "themes": [
-      1,
-      19,
-      21
-    ],
-    "pop_score": null,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "platform_ids": [
-      169,
-      508,
-      6,
-      167
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ],
-    "genre_ids": [
-      9,
-      31
-    ],
-    "developers": [
-      "Dual Effect"
-    ],
-    "developer_ids": [
-      41262
-    ],
-    "publishers": [
-      "PQube"
-    ],
-    "publisher_ids": [
-      4091
-    ],
-    "languages": [
-      "Spanish (Mexico)",
-      "German",
-      "Spanish (Spain)",
-      "Japanese",
-      "Italian",
-      "Arabic",
-      "Turkish",
-      "Portuguese (Brazil)",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Korean",
-      "Russian",
-      "English",
-      "French"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2025,
-        "m": 10,
-        "d": 23,
-        "date": 1761177600,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      },
-      {
-        "category": 0,
-        "y": 2025,
-        "m": 10,
-        "d": 23,
-        "date": 1761177600,
-        "status": 6,
-        "platform_name": "PlayStation 5"
-      },
-      {
-        "category": 0,
-        "y": 2025,
-        "m": 10,
-        "d": 23,
-        "date": 1761177600,
-        "status": 6,
-        "platform_name": "Xbox Series X|S"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 10,
-        "d": 15,
-        "date": 1792022400,
-        "status": null,
-        "platform_name": "Nintendo Switch 2"
       }
     ]
   }
