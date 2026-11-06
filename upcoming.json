@@ -46,18 +46,18 @@
       59187
     ],
     "languages": [
-      "Portuguese (Brazil)",
-      "French",
       "English",
-      "Chinese (Traditional)",
-      "Russian",
       "Japanese",
+      "German",
+      "Italian",
+      "French",
       "Chinese (Simplified)",
       "Korean",
-      "German",
-      "Spanish (Spain)",
       "Polish",
-      "Italian"
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
+      "Russian",
+      "Spanish (Spain)"
     ],
     "release_dates": [
       {
@@ -120,17 +120,17 @@
       5040
     ],
     "languages": [
-      "Portuguese (Brazil)",
-      "French",
       "English",
-      "Russian",
       "Japanese",
-      "Chinese (Simplified)",
-      "Korean",
+      "Ukrainian",
       "German",
-      "Spanish (Spain)",
+      "Chinese (Simplified)",
+      "French",
+      "Korean",
       "Polish",
-      "Ukrainian"
+      "Russian",
+      "Portuguese (Brazil)",
+      "Spanish (Spain)"
     ],
     "release_dates": [
       {
@@ -228,18 +228,18 @@
       54891
     ],
     "languages": [
-      "Portuguese (Brazil)",
-      "French",
       "English",
-      "Russian",
-      "Arabic",
-      "Chinese (Simplified)",
-      "Spanish (Mexico)",
-      "Korean",
-      "German",
-      "Polish",
       "Ukrainian",
-      "Czech"
+      "Arabic",
+      "German",
+      "Czech",
+      "Spanish (Mexico)",
+      "Chinese (Simplified)",
+      "French",
+      "Korean",
+      "Polish",
+      "Russian",
+      "Portuguese (Brazil)"
     ],
     "release_dates": [
       {
@@ -297,16 +297,16 @@
     "publishers": [],
     "publisher_ids": [],
     "languages": [
-      "Portuguese (Brazil)",
-      "French",
       "English",
       "Japanese",
-      "Russian",
-      "Chinese (Simplified)",
-      "Korean",
       "German",
-      "Spanish (Spain)",
-      "Italian"
+      "Italian",
+      "French",
+      "Russian",
+      "Korean",
+      "Chinese (Simplified)",
+      "Portuguese (Brazil)",
+      "Spanish (Spain)"
     ],
     "release_dates": [
       {
@@ -384,20 +384,20 @@
       34920
     ],
     "languages": [
-      "Portuguese (Brazil)",
-      "French",
       "English",
-      "Turkish",
       "Japanese",
-      "Russian",
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Korean",
       "Portuguese (Portugal)",
       "German",
-      "Spanish (Spain)",
+      "Chinese (Traditional)",
+      "Italian",
+      "French",
+      "Russian",
+      "Korean",
+      "Chinese (Simplified)",
       "Polish",
-      "Italian"
+      "Portuguese (Brazil)",
+      "Turkish",
+      "Spanish (Spain)"
     ],
     "release_dates": [
       {
@@ -512,8 +512,8 @@
       25747
     ],
     "languages": [
-      "Chinese (Simplified)",
       "English",
+      "Chinese (Simplified)",
       "Korean"
     ],
     "release_dates": [
@@ -590,15 +590,15 @@
       15299
     ],
     "languages": [
-      "Portuguese (Brazil)",
-      "French",
-      "Japanese",
-      "Chinese (Traditional)",
       "English",
-      "Chinese (Simplified)",
+      "Japanese",
       "Portuguese (Portugal)",
-      "Korean",
       "German",
+      "French",
+      "Chinese (Simplified)",
+      "Korean",
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
       "Spanish (Spain)"
     ],
     "release_dates": [
@@ -697,19 +697,19 @@
       8212
     ],
     "languages": [
-      "Portuguese (Brazil)",
-      "French",
       "English",
       "Japanese",
-      "Russian",
-      "Turkish",
-      "Chinese (Simplified)",
-      "Korean",
+      "Ukrainian",
       "German",
-      "Spanish (Spain)",
-      "Polish",
       "Italian",
-      "Ukrainian"
+      "French",
+      "Polish",
+      "Korean",
+      "Russian",
+      "Chinese (Simplified)",
+      "Portuguese (Brazil)",
+      "Turkish",
+      "Spanish (Spain)"
     ],
     "release_dates": [
       {
@@ -784,7 +784,7 @@
       "id": 390449,
       "image_id": "co8d9t"
     },
-    "rating": 85.99258122522217,
+    "rating": 85.98408563774248,
     "first_release_date": 1728604800,
     "hypes": 37,
     "status": null,
@@ -833,19 +833,19 @@
       112
     ],
     "languages": [
-      "Portuguese (Brazil)",
-      "French",
       "English",
       "Japanese",
-      "Russian",
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Korean",
       "English (UK)",
       "German",
-      "Spanish (Spain)",
       "Italian",
-      "Spanish (Mexico)"
+      "Spanish (Mexico)",
+      "French",
+      "Russian",
+      "Korean",
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
+      "Spanish (Spain)"
     ],
     "release_dates": [
       {
@@ -892,6 +892,75 @@
         "date": 1794441600,
         "status": 6,
         "platform_name": "Nintendo Switch 2"
+      }
+    ]
+  },
+  {
+    "id": 382400,
+    "name": "Trees Hate You",
+    "cover": {
+      "id": 619649,
+      "image_id": "coda4h"
+    },
+    "rating": null,
+    "first_release_date": 1794787200,
+    "hypes": 13,
+    "status": null,
+    "follows": null,
+    "themes": [
+      27
+    ],
+    "pop_score": null,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "platform_ids": [
+      6
+    ],
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "genre_ids": [
+      31,
+      32
+    ],
+    "developers": [],
+    "developer_ids": [],
+    "publishers": [],
+    "publisher_ids": [],
+    "languages": [
+      "Dutch",
+      "Swedish",
+      "Danish",
+      "German",
+      "Czech",
+      "French",
+      "Russian",
+      "Spanish (Spain)",
+      "Japanese",
+      "Finnish",
+      "Ukrainian",
+      "Italian",
+      "Polish",
+      "Korean",
+      "English",
+      "Portuguese (Portugal)",
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
+      "Turkish",
+      "Norwegian"
+    ],
+    "release_dates": [
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 11,
+        "d": 16,
+        "date": 1794787200,
+        "status": 6,
+        "platform_name": "PC (Microsoft Windows)"
       }
     ]
   }
