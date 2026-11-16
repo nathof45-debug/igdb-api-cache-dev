@@ -1,74 +1,5 @@
 [
   {
-    "id": 382400,
-    "name": "Trees Hate You",
-    "cover": {
-      "id": 619649,
-      "image_id": "coda4h"
-    },
-    "rating": null,
-    "first_release_date": 1794787200,
-    "hypes": 13,
-    "status": null,
-    "follows": null,
-    "themes": [
-      27
-    ],
-    "pop_score": null,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "platform_ids": [
-      6
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "genre_ids": [
-      31,
-      32
-    ],
-    "developers": [],
-    "developer_ids": [],
-    "publishers": [],
-    "publisher_ids": [],
-    "languages": [
-      "Polish",
-      "Finnish",
-      "Swedish",
-      "Portuguese (Brazil)",
-      "Korean",
-      "Italian",
-      "Dutch",
-      "German",
-      "French",
-      "Czech",
-      "Turkish",
-      "Chinese (Traditional)",
-      "Ukrainian",
-      "Japanese",
-      "Spanish (Spain)",
-      "Portuguese (Portugal)",
-      "Norwegian",
-      "English",
-      "Chinese (Simplified)",
-      "Russian",
-      "Danish"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 16,
-        "date": 1794787200,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
     "id": 237123,
     "name": "Moonlight Peaks",
     "cover": {
@@ -129,11 +60,11 @@
     ],
     "languages": [
       "Japanese",
-      "Korean",
+      "Chinese (Simplified)",
+      "German",
       "Chinese (Traditional)",
       "English",
-      "German",
-      "Chinese (Simplified)"
+      "Korean"
     ],
     "release_dates": [
       {
@@ -229,14 +160,14 @@
       74587
     ],
     "languages": [
-      "Japanese",
       "Thai",
-      "Italian",
-      "English",
-      "German",
+      "Japanese",
       "Chinese (Simplified)",
+      "Spanish (Spain)",
       "Russian",
-      "Spanish (Spain)"
+      "German",
+      "Italian",
+      "English"
     ],
     "release_dates": [
       {
@@ -387,19 +318,19 @@
       139
     ],
     "languages": [
-      "Spanish (Mexico)",
       "Japanese",
+      "Chinese (Simplified)",
+      "Spanish (Spain)",
+      "Russian",
+      "German",
       "Portuguese (Brazil)",
-      "Korean",
+      "Polish",
       "Italian",
       "Chinese (Traditional)",
       "English",
-      "Polish",
-      "German",
       "French",
-      "Chinese (Simplified)",
-      "Russian",
-      "Spanish (Spain)"
+      "Spanish (Mexico)",
+      "Korean"
     ],
     "release_dates": [
       {
@@ -475,19 +406,19 @@
       61765
     ],
     "languages": [
+      "Japanese",
       "Czech",
+      "Chinese (Simplified)",
+      "Spanish (Spain)",
+      "Russian",
+      "German",
       "Portuguese (Brazil)",
-      "Korean",
+      "Polish",
       "Italian",
       "Chinese (Traditional)",
-      "Polish",
       "English",
-      "German",
-      "Chinese (Simplified)",
       "French",
-      "Japanese",
-      "Russian",
-      "Spanish (Spain)"
+      "Korean"
     ],
     "release_dates": [
       {
@@ -524,6 +455,298 @@
         "d": 19,
         "date": 1795046400,
         "status": 6,
+        "platform_name": "Nintendo Switch 2"
+      }
+    ]
+  },
+  {
+    "id": 292809,
+    "name": "Azur Promilia",
+    "cover": {
+      "id": 452875,
+      "image_id": "co9pfv"
+    },
+    "rating": null,
+    "first_release_date": 1795651200,
+    "hypes": 12,
+    "status": null,
+    "follows": null,
+    "themes": [
+      1
+    ],
+    "pop_score": null,
+    "platforms": [
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5"
+    ],
+    "platform_ids": [
+      34,
+      6,
+      39,
+      167
+    ],
+    "genres": [
+      "Adventure"
+    ],
+    "genre_ids": [
+      31
+    ],
+    "developers": [
+      "Shanghai Manjuu"
+    ],
+    "developer_ids": [
+      16059
+    ],
+    "publishers": [
+      "Yostar Games"
+    ],
+    "publisher_ids": [
+      19094
+    ],
+    "languages": [],
+    "release_dates": [
+      {
+        "category": 7,
+        "y": null,
+        "m": null,
+        "d": null,
+        "date": null,
+        "status": null,
+        "platform_name": "PlayStation 5"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 11,
+        "d": 26,
+        "date": 1795651200,
+        "status": 6,
+        "platform_name": "Android"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 11,
+        "d": 26,
+        "date": 1795651200,
+        "status": 6,
+        "platform_name": "iOS"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 11,
+        "d": 26,
+        "date": 1795651200,
+        "status": 6,
+        "platform_name": "PC (Microsoft Windows)"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 11,
+        "d": 26,
+        "date": 1795651200,
+        "status": 6,
+        "platform_name": "Android"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 11,
+        "d": 26,
+        "date": 1795651200,
+        "status": 6,
+        "platform_name": "iOS"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 11,
+        "d": 26,
+        "date": 1795651200,
+        "status": 6,
+        "platform_name": "PC (Microsoft Windows)"
+      }
+    ]
+  },
+  {
+    "id": 335232,
+    "name": "Appulse",
+    "cover": {
+      "id": 622160,
+      "image_id": "codc28"
+    },
+    "rating": null,
+    "first_release_date": 1795651200,
+    "hypes": 7,
+    "status": null,
+    "follows": null,
+    "themes": [
+      1,
+      18
+    ],
+    "pop_score": null,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "platform_ids": [
+      6
+    ],
+    "genres": [
+      "Shooter",
+      "Pinball",
+      "Indie"
+    ],
+    "genre_ids": [
+      5,
+      30,
+      32
+    ],
+    "developers": [
+      "Le Rado"
+    ],
+    "developer_ids": [
+      81798
+    ],
+    "publishers": [
+      "Raw Fury"
+    ],
+    "publisher_ids": [
+      19006
+    ],
+    "languages": [
+      "Japanese",
+      "Russian",
+      "German",
+      "Portuguese (Brazil)",
+      "Polish",
+      "English",
+      "French",
+      "Korean"
+    ],
+    "release_dates": [
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 11,
+        "d": 26,
+        "date": 1795651200,
+        "status": 6,
+        "platform_name": "PC (Microsoft Windows)"
+      }
+    ]
+  },
+  {
+    "id": 262671,
+    "name": "Grime II",
+    "cover": {
+      "id": 596644,
+      "image_id": "cocsdg"
+    },
+    "rating": null,
+    "first_release_date": 1774915200,
+    "hypes": 7,
+    "status": null,
+    "follows": null,
+    "themes": [
+      1,
+      17
+    ],
+    "pop_score": null,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Nintendo Switch"
+    ],
+    "platform_ids": [
+      169,
+      508,
+      6,
+      167,
+      130
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Indie"
+    ],
+    "genre_ids": [
+      12,
+      32
+    ],
+    "developers": [
+      "Clover Bite"
+    ],
+    "developer_ids": [
+      27705
+    ],
+    "publishers": [
+      "Kwalee"
+    ],
+    "publisher_ids": [
+      18643
+    ],
+    "languages": [
+      "Japanese",
+      "Chinese (Simplified)",
+      "Spanish (Spain)",
+      "Russian",
+      "German",
+      "Portuguese (Brazil)",
+      "Italian",
+      "Chinese (Traditional)",
+      "English",
+      "French",
+      "Korean"
+    ],
+    "release_dates": [
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 3,
+        "d": 31,
+        "date": 1774915200,
+        "status": 6,
+        "platform_name": "PC (Microsoft Windows)"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 3,
+        "d": 31,
+        "date": 1774915200,
+        "status": 6,
+        "platform_name": "PlayStation 5"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 3,
+        "d": 31,
+        "date": 1774915200,
+        "status": 6,
+        "platform_name": "Xbox Series X|S"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 11,
+        "d": 26,
+        "date": 1795651200,
+        "status": null,
+        "platform_name": "Nintendo Switch"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 11,
+        "d": 26,
+        "date": 1795651200,
+        "status": null,
         "platform_name": "Nintendo Switch 2"
       }
     ]
