@@ -158,14 +158,14 @@
       19006
     ],
     "languages": [
-      "Russian",
       "French",
-      "English",
-      "Portuguese (Brazil)",
-      "Polish",
       "Korean",
+      "Polish",
+      "German",
+      "Portuguese (Brazil)",
       "Japanese",
-      "German"
+      "Russian",
+      "English"
     ],
     "release_dates": [
       {
@@ -284,21 +284,21 @@
     ],
     "pop_score": null,
     "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac"
+      "PC (Microsoft Windows)"
     ],
     "platform_ids": [
-      6,
-      14
+      6
     ],
     "genres": [
       "Point-and-click",
+      "Puzzle",
       "Adventure",
       "Indie",
       "Visual Novel"
     ],
     "genre_ids": [
       2,
+      9,
       31,
       32,
       34
@@ -319,15 +319,6 @@
       "English"
     ],
     "release_dates": [
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 27,
-        "date": 1795737600,
-        "status": 6,
-        "platform_name": "Mac"
-      },
       {
         "category": 0,
         "y": 2026,
@@ -387,19 +378,19 @@
       68871
     ],
     "languages": [
-      "Spanish (Mexico)",
-      "Spanish (Spain)",
+      "Italian",
+      "Korean",
       "French",
+      "Polish",
+      "German",
+      "Chinese (Traditional)",
       "Portuguese (Brazil)",
+      "Spanish (Mexico)",
+      "Japanese",
       "Russian",
       "English",
       "Chinese (Simplified)",
-      "Korean",
-      "Polish",
-      "Italian",
-      "Japanese",
-      "German",
-      "Chinese (Traditional)"
+      "Spanish (Spain)"
     ],
     "release_dates": [
       {
@@ -472,19 +463,19 @@
       423
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
+      "Italian",
       "French",
       "Korean",
+      "Polish",
+      "German",
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
+      "Turkish",
+      "Japanese",
+      "Russian",
       "English",
       "Chinese (Simplified)",
-      "Turkish",
-      "Portuguese (Brazil)",
-      "Polish",
-      "Italian",
-      "Japanese",
-      "German",
-      "Chinese (Traditional)"
+      "Spanish (Spain)"
     ],
     "release_dates": [
       {
@@ -504,6 +495,103 @@
         "date": 1795996800,
         "status": 34,
         "platform_name": "PC (Microsoft Windows)"
+      }
+    ]
+  },
+  {
+    "id": 314449,
+    "name": "Hela: Of Mice & Magic",
+    "cover": {
+      "id": 610586,
+      "image_id": "cod34q"
+    },
+    "rating": null,
+    "first_release_date": 1796083200,
+    "hypes": 50,
+    "status": null,
+    "follows": null,
+    "themes": [
+      17,
+      38
+    ],
+    "pop_score": null,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "platform_ids": [
+      169,
+      508,
+      6,
+      167
+    ],
+    "genres": [
+      "Adventure"
+    ],
+    "genre_ids": [
+      31
+    ],
+    "developers": [
+      "Windup Games"
+    ],
+    "developer_ids": [
+      57585
+    ],
+    "publishers": [
+      "Knights Peak"
+    ],
+    "publisher_ids": [
+      57363
+    ],
+    "languages": [
+      "Italian",
+      "Korean",
+      "French",
+      "German",
+      "Portuguese (Brazil)",
+      "Japanese",
+      "English",
+      "Chinese (Simplified)",
+      "Spanish (Spain)"
+    ],
+    "release_dates": [
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 12,
+        "d": 1,
+        "date": 1796083200,
+        "status": 6,
+        "platform_name": "Nintendo Switch 2"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 12,
+        "d": 1,
+        "date": 1796083200,
+        "status": 6,
+        "platform_name": "PC (Microsoft Windows)"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 12,
+        "d": 1,
+        "date": 1796083200,
+        "status": 6,
+        "platform_name": "PlayStation 5"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 12,
+        "d": 1,
+        "date": 1796083200,
+        "status": 6,
+        "platform_name": "Xbox Series X|S"
       }
     ]
   },
@@ -559,17 +647,17 @@
       18643
     ],
     "languages": [
-      "Russian",
-      "Spanish (Spain)",
+      "Italian",
       "French",
+      "Korean",
+      "German",
+      "Chinese (Traditional)",
       "Portuguese (Brazil)",
+      "Japanese",
+      "Russian",
       "English",
       "Chinese (Simplified)",
-      "Korean",
-      "Italian",
-      "Japanese",
-      "German",
-      "Chinese (Traditional)"
+      "Spanish (Spain)"
     ],
     "release_dates": [
       {
