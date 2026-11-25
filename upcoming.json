@@ -158,13 +158,13 @@
       19006
     ],
     "languages": [
-      "Russian",
-      "Portuguese (Brazil)",
-      "English",
+      "German",
       "Korean",
       "Polish",
+      "English",
       "Japanese",
-      "German",
+      "Portuguese (Brazil)",
+      "Russian",
       "French"
     ],
     "release_dates": [
@@ -338,7 +338,7 @@
       "image_id": "cod9ru"
     },
     "rating": null,
-    "first_release_date": null,
+    "first_release_date": 1795737600,
     "hypes": 13,
     "status": null,
     "follows": null,
@@ -378,18 +378,18 @@
       68871
     ],
     "languages": [
-      "Spanish (Spain)",
-      "Russian",
-      "Portuguese (Brazil)",
-      "Italian",
-      "English",
-      "Korean",
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Polish",
-      "Japanese",
-      "Spanish (Mexico)",
       "German",
+      "Spanish (Mexico)",
+      "Korean",
+      "Polish",
+      "English",
+      "Italian",
+      "Spanish (Spain)",
+      "Japanese",
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
+      "Russian",
       "French"
     ],
     "release_dates": [
@@ -403,15 +403,6 @@
         "platform_name": "PC (Microsoft Windows)"
       },
       {
-        "category": 7,
-        "y": null,
-        "m": null,
-        "d": null,
-        "date": null,
-        "status": 6,
-        "platform_name": "PlayStation 5"
-      },
-      {
         "category": 0,
         "y": 2026,
         "m": 11,
@@ -419,6 +410,123 @@
         "date": 1795737600,
         "status": 3,
         "platform_name": "Xbox Series X|S"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 11,
+        "d": 27,
+        "date": 1795737600,
+        "status": 6,
+        "platform_name": "PlayStation 5"
+      }
+    ]
+  },
+  {
+    "id": 404716,
+    "name": "The Wolf Among Us Remastered",
+    "cover": {
+      "id": 568623,
+      "image_id": "coc6r3"
+    },
+    "rating": null,
+    "first_release_date": 1793232000,
+    "hypes": 30,
+    "status": null,
+    "follows": null,
+    "themes": [
+      1,
+      43
+    ],
+    "pop_score": null,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "platform_ids": [
+      6,
+      167,
+      49,
+      130
+    ],
+    "genres": [
+      "Point-and-click",
+      "Role-playing (RPG)",
+      "Adventure",
+      "Visual Novel"
+    ],
+    "genre_ids": [
+      2,
+      12,
+      31,
+      34
+    ],
+    "developers": [
+      "Telltale Games"
+    ],
+    "developer_ids": [
+      294
+    ],
+    "publishers": [
+      "Telltale Games"
+    ],
+    "publisher_ids": [
+      294
+    ],
+    "languages": [
+      "German",
+      "Spanish (Mexico)",
+      "English",
+      "Spanish (Spain)",
+      "French"
+    ],
+    "release_dates": [
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 11,
+        "d": 29,
+        "date": 1795910400,
+        "status": 6,
+        "platform_name": "Nintendo Switch"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 12,
+        "d": 3,
+        "date": 1796256000,
+        "status": 6,
+        "platform_name": "Nintendo Switch"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 10,
+        "d": 29,
+        "date": 1793232000,
+        "status": 6,
+        "platform_name": "PlayStation 5"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 10,
+        "d": 29,
+        "date": 1793232000,
+        "status": 6,
+        "platform_name": "PC (Microsoft Windows)"
+      },
+      {
+        "category": 0,
+        "y": 2026,
+        "m": 10,
+        "d": 29,
+        "date": 1793232000,
+        "status": 6,
+        "platform_name": "Xbox One"
       }
     ]
   },
@@ -463,18 +571,18 @@
       423
     ],
     "languages": [
-      "Spanish (Spain)",
-      "Turkish",
-      "Russian",
-      "Portuguese (Brazil)",
-      "Italian",
-      "English",
-      "Korean",
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Polish",
-      "Japanese",
       "German",
+      "Turkish",
+      "Polish",
+      "Korean",
+      "English",
+      "Italian",
+      "Spanish (Spain)",
+      "Japanese",
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
+      "Russian",
       "French"
     ],
     "release_dates": [
@@ -546,18 +654,18 @@
       57363
     ],
     "languages": [
-      "Spanish (Spain)",
-      "Russian",
-      "Italian",
-      "Portuguese (Brazil)",
-      "English",
-      "Korean",
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Japanese",
       "German",
-      "French",
-      "Ukrainian"
+      "Korean",
+      "English",
+      "Italian",
+      "Spanish (Spain)",
+      "Japanese",
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "Ukrainian",
+      "Portuguese (Brazil)",
+      "Russian",
+      "French"
     ],
     "release_dates": [
       {
@@ -648,20 +756,20 @@
       58915
     ],
     "languages": [
-      "Spanish (Spain)",
+      "German",
       "Turkish",
-      "Russian",
+      "Korean",
+      "Polish",
+      "English",
       "Italian",
+      "Spanish (Spain)",
+      "Japanese",
+      "Chinese (Simplified)",
       "Portuguese (Brazil)",
       "Thai",
-      "English",
-      "Korean",
-      "Chinese (Simplified)",
-      "Dutch",
-      "Polish",
-      "Japanese",
-      "German",
-      "French"
+      "Russian",
+      "French",
+      "Dutch"
     ],
     "release_dates": [
       {
@@ -743,14 +851,14 @@
       41752
     ],
     "languages": [
-      "Spanish (Spain)",
-      "Russian",
-      "Portuguese (Brazil)",
-      "English",
-      "Korean",
-      "Chinese (Simplified)",
-      "Japanese",
       "German",
+      "Korean",
+      "English",
+      "Spanish (Spain)",
+      "Japanese",
+      "Chinese (Simplified)",
+      "Portuguese (Brazil)",
+      "Russian",
       "French"
     ],
     "release_dates": [
@@ -839,15 +947,15 @@
       24760
     ],
     "languages": [
-      "Spanish (Spain)",
-      "Russian",
-      "Italian",
-      "English",
-      "Korean",
-      "Chinese (Simplified)",
-      "Polish",
-      "Japanese",
       "German",
+      "Korean",
+      "Polish",
+      "English",
+      "Italian",
+      "Spanish (Spain)",
+      "Japanese",
+      "Chinese (Simplified)",
+      "Russian",
       "French"
     ],
     "release_dates": [
@@ -932,18 +1040,18 @@
       37942
     ],
     "languages": [
-      "Spanish (Spain)",
-      "Turkish",
-      "Russian",
-      "Italian",
-      "Portuguese (Brazil)",
-      "English",
-      "Korean",
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Polish",
-      "Japanese",
       "German",
+      "Turkish",
+      "Korean",
+      "Polish",
+      "English",
+      "Italian",
+      "Spanish (Spain)",
+      "Japanese",
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
+      "Russian",
       "French"
     ],
     "release_dates": [
@@ -1039,14 +1147,14 @@
       26
     ],
     "languages": [
-      "Spanish (Spain)",
-      "Italian",
-      "English",
-      "Korean",
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Japanese",
       "German",
+      "Korean",
+      "English",
+      "Italian",
+      "Spanish (Spain)",
+      "Japanese",
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
       "French"
     ],
     "release_dates": [
@@ -1239,18 +1347,18 @@
       104
     ],
     "languages": [
-      "Spanish (Spain)",
-      "Russian",
-      "Italian",
-      "Portuguese (Brazil)",
-      "English",
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Dutch",
-      "Polish",
-      "Japanese",
       "German",
-      "French"
+      "Polish",
+      "English",
+      "Italian",
+      "Spanish (Spain)",
+      "Japanese",
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
+      "Russian",
+      "French",
+      "Dutch"
     ],
     "release_dates": [
       {
@@ -1346,14 +1454,14 @@
       82
     ],
     "languages": [
-      "Spanish (Spain)",
-      "Italian",
-      "Portuguese (Brazil)",
-      "English",
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Japanese",
       "German",
+      "English",
+      "Italian",
+      "Spanish (Spain)",
+      "Japanese",
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
       "French"
     ],
     "release_dates": [
@@ -1466,20 +1574,20 @@
       37
     ],
     "languages": [
-      "Spanish (Spain)",
-      "Russian",
-      "Portuguese (Brazil)",
-      "Italian",
-      "Thai",
-      "English",
-      "Korean",
-      "Arabic",
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Polish",
-      "Japanese",
-      "Spanish (Mexico)",
       "German",
+      "Arabic",
+      "Spanish (Mexico)",
+      "Korean",
+      "Polish",
+      "English",
+      "Italian",
+      "Spanish (Spain)",
+      "Japanese",
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
+      "Thai",
+      "Russian",
       "French"
     ],
     "release_dates": [
@@ -1549,97 +1657,6 @@
     ]
   },
   {
-    "id": 305550,
-    "name": "Acts of Blood",
-    "cover": {
-      "id": 568538,
-      "image_id": "coc6oq"
-    },
-    "rating": null,
-    "first_release_date": 1796342400,
-    "hypes": 58,
-    "status": null,
-    "follows": null,
-    "themes": [
-      1
-    ],
-    "pop_score": null,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "platform_ids": [
-      169,
-      6,
-      167
-    ],
-    "genres": [
-      "Fighting",
-      "Hack and slash/Beat 'em up",
-      "Adventure",
-      "Indie"
-    ],
-    "genre_ids": [
-      4,
-      25,
-      31,
-      32
-    ],
-    "developers": [
-      "Eksil Team"
-    ],
-    "developer_ids": [
-      64463
-    ],
-    "publishers": [
-      "Big Fan Games"
-    ],
-    "publisher_ids": [
-      61765
-    ],
-    "languages": [
-      "Spanish (Spain)",
-      "Russian",
-      "Portuguese (Brazil)",
-      "English",
-      "Korean",
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Japanese",
-      "German"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 12,
-        "d": 4,
-        "date": 1796342400,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      },
-      {
-        "category": 2,
-        "y": 2027,
-        "m": 12,
-        "d": 31,
-        "date": 1830211200,
-        "status": 6,
-        "platform_name": "PlayStation 5"
-      },
-      {
-        "category": 2,
-        "y": 2027,
-        "m": 12,
-        "d": 31,
-        "date": 1830211200,
-        "status": 6,
-        "platform_name": "Xbox Series X|S"
-      }
-    ]
-  },
-  {
     "id": 370095,
     "name": "Petit Planet",
     "cover": {
@@ -1692,19 +1709,19 @@
       40242
     ],
     "languages": [
-      "Spanish (Spain)",
+      "German",
       "Turkish",
-      "Russian",
-      "Italian",
-      "Thai",
-      "Vietnamese",
-      "English",
       "Korean",
+      "English",
+      "Italian",
+      "Spanish (Spain)",
+      "Japanese",
       "Chinese (Traditional)",
       "Chinese (Simplified)",
-      "Japanese",
-      "German",
-      "French"
+      "Thai",
+      "Russian",
+      "French",
+      "Vietnamese"
     ],
     "release_dates": [
       {
@@ -1797,16 +1814,16 @@
       18643
     ],
     "languages": [
-      "Spanish (Spain)",
-      "Russian",
-      "Italian",
-      "Portuguese (Brazil)",
+      "German",
       "Korean",
       "English",
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
+      "Italian",
+      "Spanish (Spain)",
       "Japanese",
-      "German",
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "Portuguese (Brazil)",
+      "Russian",
       "French"
     ],
     "release_dates": [
