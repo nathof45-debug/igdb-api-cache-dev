@@ -48,8 +48,8 @@
     "languages": [
       "Japanese",
       "Chinese (Traditional)",
-      "English",
-      "Chinese (Simplified)"
+      "Chinese (Simplified)",
+      "English"
     ],
     "release_dates": [
       {
@@ -126,10 +126,10 @@
       294
     ],
     "languages": [
-      "German",
       "Spanish (Mexico)",
       "English",
       "Spanish (Spain)",
+      "German",
       "French"
     ],
     "release_dates": [
@@ -181,130 +181,6 @@
     ]
   },
   {
-    "id": 404715,
-    "name": "Attack on Titan 3",
-    "cover": {
-      "id": 589966,
-      "image_id": "cocn7y"
-    },
-    "rating": null,
-    "first_release_date": 1796860800,
-    "hypes": 16,
-    "status": null,
-    "follows": null,
-    "themes": [
-      1,
-      17
-    ],
-    "pop_score": null,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "platform_ids": [
-      169,
-      508,
-      6,
-      167
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up"
-    ],
-    "genre_ids": [
-      25
-    ],
-    "developers": [
-      "Omega Force"
-    ],
-    "developer_ids": [
-      1394
-    ],
-    "publishers": [
-      "Koei Tecmo Games"
-    ],
-    "publisher_ids": [
-      858
-    ],
-    "languages": [
-      "German",
-      "Korean",
-      "English",
-      "Italian",
-      "Spanish (Spain)",
-      "Japanese",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "French"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 12,
-        "d": 10,
-        "date": 1796860800,
-        "status": 6,
-        "platform_name": "Nintendo Switch 2"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 12,
-        "d": 10,
-        "date": 1796860800,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 12,
-        "d": 10,
-        "date": 1796860800,
-        "status": 6,
-        "platform_name": "PlayStation 5"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 12,
-        "d": 10,
-        "date": 1796860800,
-        "status": 6,
-        "platform_name": "Xbox Series X|S"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 12,
-        "d": 7,
-        "date": 1796601600,
-        "status": 34,
-        "platform_name": "PC (Microsoft Windows)"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 12,
-        "d": 7,
-        "date": 1796601600,
-        "status": 34,
-        "platform_name": "PlayStation 5"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 12,
-        "d": 7,
-        "date": 1796601600,
-        "status": 34,
-        "platform_name": "Xbox Series X|S"
-      }
-    ]
-  },
-  {
     "id": 368311,
     "name": "Arkheron",
     "cover": {
@@ -332,9 +208,13 @@
       167
     ],
     "genres": [
+      "Fighting",
+      "Role-playing (RPG)",
       "Tactical"
     ],
     "genre_ids": [
+      4,
+      12,
       24
     ],
     "developers": [
@@ -352,18 +232,18 @@
       68871
     ],
     "languages": [
-      "German",
-      "Spanish (Mexico)",
       "Korean",
-      "Polish",
       "English",
-      "Italian",
+      "Spanish (Mexico)",
       "Spanish (Spain)",
-      "Japanese",
+      "Russian",
       "Chinese (Simplified)",
       "Chinese (Traditional)",
+      "German",
       "Portuguese (Brazil)",
-      "Russian",
+      "Polish",
+      "Japanese",
+      "Italian",
       "French"
     ],
     "release_dates": [
@@ -445,12 +325,12 @@
       57494
     ],
     "languages": [
-      "Portuguese (Portugal)",
-      "English",
-      "Japanese",
-      "Chinese (Simplified)",
       "Thai",
-      "Russian"
+      "English",
+      "Russian",
+      "Chinese (Simplified)",
+      "Portuguese (Portugal)",
+      "Japanese"
     ],
     "release_dates": [
       {
@@ -517,23 +397,23 @@
       55802
     ],
     "languages": [
-      "Portuguese (Portugal)",
-      "German",
-      "Turkish",
-      "Czech",
+      "Finnish",
       "Korean",
       "English",
-      "Polish",
-      "Italian",
-      "Spanish (Spain)",
-      "Japanese",
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
       "Ukrainian",
-      "Portuguese (Brazil)",
-      "Norwegian",
-      "Finnish",
+      "Spanish (Spain)",
       "Russian",
+      "Czech",
+      "Chinese (Simplified)",
+      "Portuguese (Portugal)",
+      "Chinese (Traditional)",
+      "German",
+      "Norwegian",
+      "Turkish",
+      "Portuguese (Brazil)",
+      "Polish",
+      "Japanese",
+      "Italian",
       "French"
     ],
     "release_dates": [
@@ -545,118 +425,6 @@
         "date": 1800316800,
         "status": 6,
         "platform_name": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
-    "id": 262671,
-    "name": "Grime II",
-    "cover": {
-      "id": 596644,
-      "image_id": "cocsdg"
-    },
-    "rating": null,
-    "first_release_date": 1774915200,
-    "hypes": 7,
-    "status": null,
-    "follows": null,
-    "themes": [
-      1,
-      17
-    ],
-    "pop_score": null,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Nintendo Switch"
-    ],
-    "platform_ids": [
-      169,
-      508,
-      6,
-      167,
-      130
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Indie"
-    ],
-    "genre_ids": [
-      12,
-      32
-    ],
-    "developers": [
-      "Clover Bite"
-    ],
-    "developer_ids": [
-      27705
-    ],
-    "publishers": [
-      "Kwalee"
-    ],
-    "publisher_ids": [
-      18643
-    ],
-    "languages": [
-      "German",
-      "Korean",
-      "English",
-      "Italian",
-      "Spanish (Spain)",
-      "Japanese",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Portuguese (Brazil)",
-      "Russian",
-      "French"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 3,
-        "d": 31,
-        "date": 1774915200,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 3,
-        "d": 31,
-        "date": 1774915200,
-        "status": 6,
-        "platform_name": "PlayStation 5"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 3,
-        "d": 31,
-        "date": 1774915200,
-        "status": 6,
-        "platform_name": "Xbox Series X|S"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 26,
-        "date": 1795651200,
-        "status": null,
-        "platform_name": "Nintendo Switch"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 26,
-        "date": 1795651200,
-        "status": null,
-        "platform_name": "Nintendo Switch 2"
       }
     ]
   },
@@ -717,13 +485,13 @@
       77520
     ],
     "languages": [
-      "German",
       "English",
       "Spanish (Spain)",
-      "Japanese",
+      "Russian",
       "Chinese (Simplified)",
+      "German",
       "Portuguese (Brazil)",
-      "Russian"
+      "Japanese"
     ],
     "release_dates": [
       {
@@ -857,17 +625,17 @@
       27522
     ],
     "languages": [
-      "German",
-      "Turkish",
       "Korean",
       "English",
-      "Italian",
       "Spanish (Spain)",
-      "Japanese",
+      "Russian",
       "Chinese (Simplified)",
       "Chinese (Traditional)",
+      "German",
+      "Turkish",
       "Portuguese (Brazil)",
-      "Russian",
+      "Japanese",
+      "Italian",
       "French"
     ],
     "release_dates": [
@@ -977,123 +745,6 @@
     ]
   },
   {
-    "id": 397811,
-    "name": "Machine Party",
-    "cover": {
-      "id": 555328,
-      "image_id": "cobwhs"
-    },
-    "rating": 99.58066913662063,
-    "first_release_date": 1785369600,
-    "hypes": 4,
-    "status": null,
-    "follows": null,
-    "themes": [
-      1,
-      19
-    ],
-    "pop_score": null,
-    "platforms": [
-      "Xbox Series X|S",
-      "Linux",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Nintendo Switch"
-    ],
-    "platform_ids": [
-      169,
-      3,
-      6,
-      167,
-      130
-    ],
-    "genres": [
-      "Indie"
-    ],
-    "genre_ids": [
-      32
-    ],
-    "developers": [
-      "Mike Klubnika",
-      "GDeavid"
-    ],
-    "developer_ids": [
-      44172,
-      56232
-    ],
-    "publishers": [
-      "Oro Interactive"
-    ],
-    "publisher_ids": [
-      54891
-    ],
-    "languages": [
-      "German",
-      "Spanish (Mexico)",
-      "Swedish",
-      "Turkish",
-      "Polish",
-      "Korean",
-      "English",
-      "Spanish (Spain)",
-      "Japanese",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Ukrainian",
-      "Portuguese (Brazil)",
-      "Finnish",
-      "Russian",
-      "French"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 7,
-        "d": 30,
-        "date": 1785369600,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 7,
-        "d": 30,
-        "date": 1785369600,
-        "status": 6,
-        "platform_name": "Linux"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 26,
-        "date": 1795651200,
-        "status": 6,
-        "platform_name": "PlayStation 5"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 26,
-        "date": 1795651200,
-        "status": 6,
-        "platform_name": "Xbox Series X|S"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 26,
-        "date": 1795651200,
-        "status": 6,
-        "platform_name": "Nintendo Switch"
-      }
-    ]
-  },
-  {
     "id": 347825,
     "name": "Heidi's Legacy: Mountains Calling",
     "cover": {
@@ -1142,11 +793,11 @@
       47977
     ],
     "languages": [
-      "German",
       "English",
-      "Japanese",
-      "Chinese (Traditional)",
       "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "German",
+      "Japanese",
       "French"
     ],
     "release_dates": [
@@ -1295,16 +946,16 @@
       36158
     ],
     "languages": [
-      "German",
       "Korean",
       "English",
-      "Italian",
       "Spanish (Spain)",
-      "Japanese",
+      "Russian",
       "Chinese (Simplified)",
       "Chinese (Traditional)",
+      "German",
       "Portuguese (Brazil)",
-      "Russian",
+      "Japanese",
+      "Italian",
       "French"
     ],
     "release_dates": [
@@ -1391,14 +1042,14 @@
       84406
     ],
     "languages": [
-      "German",
-      "Turkish",
-      "English",
-      "Ukrainian",
-      "Chinese (Simplified)",
-      "Portuguese (Brazil)",
       "Thai",
+      "Ukrainian",
+      "English",
       "Russian",
+      "Chinese (Simplified)",
+      "Turkish",
+      "German",
+      "Portuguese (Brazil)",
       "Arabic"
     ],
     "release_dates": [
@@ -1456,18 +1107,18 @@
       42466
     ],
     "languages": [
-      "German",
-      "Turkish",
+      "Thai",
       "Korean",
       "English",
-      "Italian",
-      "Spanish (Spain)",
-      "Japanese",
-      "Chinese (Simplified)",
       "Ukrainian",
-      "Portuguese (Brazil)",
-      "Thai",
+      "Spanish (Spain)",
       "Russian",
+      "Chinese (Simplified)",
+      "Turkish",
+      "German",
+      "Portuguese (Brazil)",
+      "Japanese",
+      "Italian",
       "French"
     ],
     "release_dates": [
@@ -1540,25 +1191,25 @@
       17111
     ],
     "languages": [
-      "Turkish",
-      "Korean",
-      "Portuguese (Portugal)",
-      "Ukrainian",
-      "Japanese",
-      "Chinese (Traditional)",
-      "German",
-      "Swedish",
       "English",
-      "Spanish (Spain)",
-      "Danish",
       "Chinese (Simplified)",
+      "Danish",
       "Portuguese (Brazil)",
+      "Dutch",
       "Russian",
-      "French",
+      "Turkish",
       "Polish",
-      "Italian",
+      "Swedish",
       "Finnish",
-      "Dutch"
+      "Ukrainian",
+      "Korean",
+      "Spanish (Spain)",
+      "Japanese",
+      "Italian",
+      "French",
+      "Portuguese (Portugal)",
+      "Chinese (Traditional)",
+      "German"
     ],
     "release_dates": [
       {
@@ -1639,9 +1290,9 @@
       2478
     ],
     "languages": [
-      "German",
       "English",
       "Spanish (Spain)",
+      "German",
       "Portuguese (Brazil)",
       "French"
     ],
@@ -1715,32 +1366,32 @@
       84918
     ],
     "languages": [
-      "Turkish",
-      "Czech",
-      "Korean",
-      "Portuguese (Portugal)",
-      "Hungarian",
-      "Ukrainian",
-      "Japanese",
-      "Chinese (Traditional)",
       "Thai",
-      "Arabic",
-      "German",
-      "Swedish",
       "English",
-      "Spanish (Spain)",
-      "Danish",
+      "Czech",
       "Chinese (Simplified)",
+      "Danish",
       "Portuguese (Brazil)",
       "Vietnamese",
+      "Dutch",
       "Russian",
-      "French",
-      "Hebrew",
+      "Turkish",
+      "Arabic",
       "Polish",
-      "Italian",
-      "Norwegian",
+      "Hebrew",
+      "Swedish",
+      "Hungarian",
       "Finnish",
-      "Dutch"
+      "Korean",
+      "Ukrainian",
+      "Spanish (Spain)",
+      "Norwegian",
+      "Japanese",
+      "Italian",
+      "French",
+      "Portuguese (Portugal)",
+      "Chinese (Traditional)",
+      "German"
     ],
     "release_dates": [
       {
@@ -1760,116 +1411,6 @@
         "date": 1801612800,
         "status": 6,
         "platform_name": "Linux"
-      }
-    ]
-  },
-  {
-    "id": 415836,
-    "name": "Romancing SaGa 3: Destinies United",
-    "cover": {
-      "id": 600689,
-      "image_id": "cocvht"
-    },
-    "rating": null,
-    "first_release_date": 1801699200,
-    "hypes": 2,
-    "status": null,
-    "follows": null,
-    "themes": [
-      17
-    ],
-    "pop_score": null,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Nintendo Switch"
-    ],
-    "platform_ids": [
-      169,
-      508,
-      6,
-      167,
-      130
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Tactical"
-    ],
-    "genre_ids": [
-      12,
-      24
-    ],
-    "developers": [
-      "Xeen",
-      "Square Enix Creative Studio 2"
-    ],
-    "developer_ids": [
-      2928,
-      72232
-    ],
-    "publishers": [
-      "Square Enix"
-    ],
-    "publisher_ids": [
-      26
-    ],
-    "languages": [
-      "German",
-      "Korean",
-      "English",
-      "Spanish (Spain)",
-      "Japanese",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "French"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2027,
-        "m": 2,
-        "d": 4,
-        "date": 1801699200,
-        "status": 6,
-        "platform_name": "Nintendo Switch"
-      },
-      {
-        "category": 0,
-        "y": 2027,
-        "m": 2,
-        "d": 4,
-        "date": 1801699200,
-        "status": 6,
-        "platform_name": "Nintendo Switch 2"
-      },
-      {
-        "category": 0,
-        "y": 2027,
-        "m": 2,
-        "d": 4,
-        "date": 1801699200,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      },
-      {
-        "category": 0,
-        "y": 2027,
-        "m": 2,
-        "d": 4,
-        "date": 1801699200,
-        "status": 6,
-        "platform_name": "PlayStation 5"
-      },
-      {
-        "category": 0,
-        "y": 2027,
-        "m": 2,
-        "d": 4,
-        "date": 1801699200,
-        "status": 6,
-        "platform_name": "Xbox Series X|S"
       }
     ]
   },
@@ -1922,14 +1463,14 @@
       83611
     ],
     "languages": [
-      "German",
       "Korean",
       "English",
-      "Japanese",
+      "Russian",
       "Chinese (Simplified)",
       "Chinese (Traditional)",
+      "German",
       "Portuguese (Brazil)",
-      "Russian",
+      "Japanese",
       "French"
     ],
     "release_dates": [
@@ -1941,124 +1482,6 @@
         "date": 1795737600,
         "status": 6,
         "platform_name": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
-    "id": 386228,
-    "name": "Security 51",
-    "cover": {
-      "id": 570728,
-      "image_id": "coc8dk"
-    },
-    "rating": null,
-    "first_release_date": 1786492800,
-    "hypes": 2,
-    "status": null,
-    "follows": null,
-    "themes": [
-      18,
-      43
-    ],
-    "pop_score": null,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac",
-      "Xbox One"
-    ],
-    "platform_ids": [
-      169,
-      6,
-      167,
-      14,
-      49
-    ],
-    "genres": [
-      "Point-and-click",
-      "Puzzle",
-      "Simulator",
-      "Strategy",
-      "Adventure"
-    ],
-    "genre_ids": [
-      2,
-      9,
-      13,
-      15,
-      31
-    ],
-    "developers": [
-      "Alawar"
-    ],
-    "developer_ids": [
-      7945
-    ],
-    "publishers": [
-      "Alawar"
-    ],
-    "publisher_ids": [
-      7945
-    ],
-    "languages": [
-      "German",
-      "Korean",
-      "Polish",
-      "English",
-      "Spanish (Spain)",
-      "Japanese",
-      "Chinese (Traditional)",
-      "Chinese (Simplified)",
-      "Portuguese (Brazil)",
-      "Russian",
-      "French"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 8,
-        "d": 12,
-        "date": 1786492800,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 26,
-        "date": 1795651200,
-        "status": 6,
-        "platform_name": "Xbox One"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 26,
-        "date": 1795651200,
-        "status": 6,
-        "platform_name": "Xbox Series X|S"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 26,
-        "date": 1795651200,
-        "status": 6,
-        "platform_name": "PlayStation 5"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 8,
-        "d": 12,
-        "date": 1786492800,
-        "status": 6,
-        "platform_name": "Mac"
       }
     ]
   },
@@ -2178,8 +1601,8 @@
       54023
     ],
     "languages": [
-      "English",
-      "Italian"
+      "Italian",
+      "English"
     ],
     "release_dates": [
       {
@@ -2188,75 +1611,6 @@
         "m": 12,
         "d": 1,
         "date": 1796083200,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
-    "id": 348658,
-    "name": "Iona's Island",
-    "cover": {
-      "id": 588505,
-      "image_id": "cocm3d"
-    },
-    "rating": null,
-    "first_release_date": 1795046400,
-    "hypes": 2,
-    "status": null,
-    "follows": null,
-    "themes": [
-      33,
-      38
-    ],
-    "pop_score": null,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "platform_ids": [
-      6,
-      14
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "genre_ids": [
-      31,
-      32
-    ],
-    "developers": [
-      "CozyFlame Games"
-    ],
-    "developer_ids": [
-      80181
-    ],
-    "publishers": [
-      "CozyFlame Games"
-    ],
-    "publisher_ids": [
-      80181
-    ],
-    "languages": [
-      "English"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 26,
-        "date": 1795651200,
-        "status": 6,
-        "platform_name": "Mac"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 19,
-        "date": 1795046400,
         "status": 6,
         "platform_name": "PC (Microsoft Windows)"
       }
@@ -2313,10 +1667,10 @@
     ],
     "languages": [
       "English",
-      "Japanese",
+      "Russian",
       "Chinese (Simplified)",
       "Portuguese (Brazil)",
-      "Russian",
+      "Japanese",
       "French"
     ],
     "release_dates": [
@@ -2407,14 +1761,14 @@
       47162
     ],
     "languages": [
-      "German",
       "English",
       "Spanish (Spain)",
-      "Japanese",
+      "Russian",
       "Chinese (Simplified)",
       "Chinese (Traditional)",
+      "German",
       "Portuguese (Brazil)",
-      "Russian",
+      "Japanese",
       "French"
     ],
     "release_dates": [
@@ -2583,26 +1937,26 @@
       19006
     ],
     "languages": [
-      "Turkish",
-      "Czech",
-      "Portuguese (Portugal)",
-      "Hungarian",
-      "Ukrainian",
-      "Japanese",
-      "Arabic",
-      "German",
       "English",
-      "Danish",
-      "Spanish (Spain)",
+      "Czech",
       "Chinese (Simplified)",
+      "Danish",
       "Portuguese (Brazil)",
+      "Dutch",
       "Russian",
-      "French",
+      "Turkish",
       "Polish",
-      "Italian",
-      "Norwegian",
+      "Arabic",
+      "Hungarian",
       "Finnish",
-      "Dutch"
+      "Ukrainian",
+      "Spanish (Spain)",
+      "Norwegian",
+      "Japanese",
+      "Italian",
+      "French",
+      "Portuguese (Portugal)",
+      "German"
     ],
     "release_dates": [
       {
@@ -2762,14 +2116,14 @@
       78970
     ],
     "languages": [
-      "German",
+      "Thai",
       "Korean",
       "English",
       "Spanish (Spain)",
-      "Japanese",
       "Chinese (Simplified)",
+      "German",
       "Portuguese (Brazil)",
-      "Thai",
+      "Japanese",
       "French"
     ],
     "release_dates": [
@@ -3109,17 +2463,17 @@
       71995
     ],
     "languages": [
-      "Portuguese (Portugal)",
-      "German",
-      "Turkish",
-      "Polish",
       "Korean",
       "English",
-      "Italian",
       "Spanish (Spain)",
-      "Japanese",
-      "Chinese (Simplified)",
       "Russian",
+      "Chinese (Simplified)",
+      "Portuguese (Portugal)",
+      "Turkish",
+      "German",
+      "Polish",
+      "Japanese",
+      "Italian",
       "French"
     ],
     "release_dates": [
@@ -3188,18 +2542,18 @@
     "publishers": [],
     "publisher_ids": [],
     "languages": [
-      "German",
       "Korean",
-      "Polish",
       "English",
-      "Italian",
+      "Ukrainian",
       "Spanish (Spain)",
-      "Japanese",
+      "Russian",
       "Chinese (Simplified)",
       "Chinese (Traditional)",
-      "Ukrainian",
+      "German",
       "Portuguese (Brazil)",
-      "Russian",
+      "Polish",
+      "Japanese",
+      "Italian",
       "French"
     ],
     "release_dates": [
@@ -3285,19 +2639,19 @@
       80528
     ],
     "languages": [
-      "German",
       "Swedish",
       "Korean",
       "English",
-      "Italian",
-      "Spanish (Spain)",
-      "Danish",
-      "Chinese (Simplified)",
       "Ukrainian",
-      "Japanese",
-      "Norwegian",
-      "Portuguese (Brazil)",
+      "Spanish (Spain)",
       "Russian",
+      "Chinese (Simplified)",
+      "Norwegian",
+      "German",
+      "Danish",
+      "Portuguese (Brazil)",
+      "Japanese",
+      "Italian",
       "French"
     ],
     "release_dates": [
@@ -3307,138 +2661,6 @@
         "m": 12,
         "d": 8,
         "date": 1796688000,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
-    "id": 402445,
-    "name": "Shark Mart",
-    "cover": {
-      "id": 567118,
-      "image_id": "coc5la"
-    },
-    "rating": null,
-    "first_release_date": 1795651200,
-    "hypes": 1,
-    "status": null,
-    "follows": null,
-    "themes": [],
-    "pop_score": null,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "platform_ids": [
-      6
-    ],
-    "genres": [
-      "Simulator",
-      "Indie"
-    ],
-    "genre_ids": [
-      13,
-      32
-    ],
-    "developers": [
-      "stre1itzia",
-      "Andryash"
-    ],
-    "developer_ids": [
-      85465,
-      85464
-    ],
-    "publishers": [
-      "Polden Publishing"
-    ],
-    "publisher_ids": [
-      63095
-    ],
-    "languages": [
-      "German",
-      "Korean",
-      "English",
-      "Spanish (Spain)",
-      "Japanese",
-      "Chinese (Simplified)",
-      "Portuguese (Brazil)",
-      "Russian"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 26,
-        "date": 1795651200,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
-    "id": 401487,
-    "name": "Split Brain Samsara",
-    "cover": {
-      "id": 562686,
-      "image_id": "coc266"
-    },
-    "rating": null,
-    "first_release_date": 1795651200,
-    "hypes": 1,
-    "status": null,
-    "follows": null,
-    "themes": [
-      18,
-      43
-    ],
-    "pop_score": null,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "platform_ids": [
-      6
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure",
-      "Indie"
-    ],
-    "genre_ids": [
-      9,
-      31,
-      32
-    ],
-    "developers": [
-      "Kusa Games"
-    ],
-    "developer_ids": [
-      64500
-    ],
-    "publishers": [
-      "Kusa Games"
-    ],
-    "publisher_ids": [
-      64500
-    ],
-    "languages": [
-      "German",
-      "Korean",
-      "English",
-      "Spanish (Spain)",
-      "Japanese",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Portuguese (Brazil)",
-      "French"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 26,
-        "date": 1795651200,
         "status": 6,
         "platform_name": "PC (Microsoft Windows)"
       }
@@ -3483,9 +2705,9 @@
     "languages": [
       "Korean",
       "English",
-      "Japanese",
+      "Chinese (Simplified)",
       "Chinese (Traditional)",
-      "Chinese (Simplified)"
+      "Japanese"
     ],
     "release_dates": [
       {
@@ -3550,9 +2772,9 @@
     "languages": [
       "Korean",
       "English",
-      "Japanese",
+      "Chinese (Simplified)",
       "Chinese (Traditional)",
-      "Chinese (Simplified)"
+      "Japanese"
     ],
     "release_dates": [
       {
@@ -3624,34 +2846,34 @@
       9322
     ],
     "languages": [
-      "Turkish",
-      "Czech",
-      "Korean",
-      "Portuguese (Portugal)",
-      "English (UK)",
-      "Hungarian",
-      "Ukrainian",
-      "Japanese",
-      "Chinese (Traditional)",
       "Thai",
-      "Arabic",
-      "German",
-      "Swedish",
       "English",
-      "Danish",
-      "Spanish (Spain)",
+      "Czech",
       "Chinese (Simplified)",
+      "Danish",
       "Portuguese (Brazil)",
       "Vietnamese",
+      "Dutch",
       "Russian",
-      "French",
-      "Hebrew",
-      "Spanish (Mexico)",
+      "Turkish",
+      "Arabic",
       "Polish",
-      "Italian",
-      "Norwegian",
+      "Hebrew",
+      "English (UK)",
+      "Swedish",
+      "Hungarian",
       "Finnish",
-      "Dutch"
+      "Korean",
+      "Spanish (Mexico)",
+      "Ukrainian",
+      "Spanish (Spain)",
+      "Norwegian",
+      "Japanese",
+      "Italian",
+      "French",
+      "Portuguese (Portugal)",
+      "Chinese (Traditional)",
+      "German"
     ],
     "release_dates": [
       {
@@ -3662,125 +2884,6 @@
         "date": 1795996800,
         "status": 3,
         "platform_name": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
-    "id": 386448,
-    "name": "Dicevaders",
-    "cover": {
-      "id": 571692,
-      "image_id": "coc94c"
-    },
-    "rating": null,
-    "first_release_date": 1790640000,
-    "hypes": 1,
-    "status": null,
-    "follows": null,
-    "themes": [],
-    "pop_score": null,
-    "platforms": [
-      "Nintendo Switch 2",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "Mac",
-      "Nintendo Switch"
-    ],
-    "platform_ids": [
-      508,
-      34,
-      6,
-      39,
-      14,
-      130
-    ],
-    "genres": [
-      "Strategy",
-      "Indie"
-    ],
-    "genre_ids": [
-      15,
-      32
-    ],
-    "developers": [
-      "Pengonauts"
-    ],
-    "developer_ids": [
-      73168
-    ],
-    "publishers": [
-      "Pengonauts"
-    ],
-    "publisher_ids": [
-      73168
-    ],
-    "languages": [
-      "German",
-      "Korean",
-      "English",
-      "Italian",
-      "Spanish (Spain)",
-      "Japanese",
-      "Chinese (Simplified)",
-      "Portuguese (Brazil)",
-      "Russian",
-      "French"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 26,
-        "date": 1795651200,
-        "status": 6,
-        "platform_name": "iOS"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 26,
-        "date": 1795651200,
-        "status": 6,
-        "platform_name": "Android"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 9,
-        "d": 29,
-        "date": 1790640000,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 9,
-        "d": 29,
-        "date": 1790640000,
-        "status": 6,
-        "platform_name": "Nintendo Switch"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 9,
-        "d": 29,
-        "date": 1790640000,
-        "status": 6,
-        "platform_name": "Nintendo Switch 2"
-      },
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 9,
-        "d": 29,
-        "date": 1790640000,
-        "status": 6,
-        "platform_name": "Mac"
       }
     ]
   },
@@ -3839,14 +2942,14 @@
       63606
     ],
     "languages": [
-      "German",
       "Korean",
       "English",
       "Spanish (Spain)",
-      "Japanese",
+      "Russian",
       "Chinese (Simplified)",
       "Chinese (Traditional)",
-      "Russian",
+      "German",
+      "Japanese",
       "French"
     ],
     "release_dates": [
@@ -3935,16 +3038,16 @@
       54674
     ],
     "languages": [
-      "Portuguese (Portugal)",
-      "German",
-      "Turkish",
       "Korean",
       "English",
-      "Italian",
-      "Japanese",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
       "Russian",
+      "Chinese (Simplified)",
+      "Portuguese (Portugal)",
+      "Chinese (Traditional)",
+      "Turkish",
+      "German",
+      "Japanese",
+      "Italian",
       "French"
     ],
     "release_dates": [
@@ -3964,73 +3067,6 @@
         "d": 10,
         "date": 1796860800,
         "status": 3,
-        "platform_name": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
-    "id": 346684,
-    "name": "Cleaner Company",
-    "cover": {
-      "id": 558471,
-      "image_id": "cobyx3"
-    },
-    "rating": null,
-    "first_release_date": 1801094400,
-    "hypes": 1,
-    "status": null,
-    "follows": null,
-    "themes": [],
-    "pop_score": null,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "platform_ids": [
-      6
-    ],
-    "genres": [
-      "Simulator",
-      "Adventure",
-      "Indie"
-    ],
-    "genre_ids": [
-      13,
-      31,
-      32
-    ],
-    "developers": [
-      "Wildflame Studio"
-    ],
-    "developer_ids": [
-      68941
-    ],
-    "publishers": [
-      "Mythwright"
-    ],
-    "publisher_ids": [
-      60176
-    ],
-    "languages": [
-      "German",
-      "Turkish",
-      "Polish",
-      "Korean",
-      "English",
-      "Spanish (Spain)",
-      "Japanese",
-      "Chinese (Simplified)",
-      "Portuguese (Brazil)",
-      "Russian",
-      "French"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2027,
-        "m": 1,
-        "d": 28,
-        "date": 1801094400,
-        "status": 6,
         "platform_name": "PC (Microsoft Windows)"
       }
     ]
@@ -4086,19 +3122,19 @@
       84908
     ],
     "languages": [
-      "Portuguese (Portugal)",
-      "German",
-      "Korean",
-      "Polish",
-      "English",
-      "Italian",
       "Hungarian",
+      "Korean",
+      "English",
       "Spanish (Spain)",
-      "Japanese",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Portuguese (Brazil)",
       "Russian",
+      "Chinese (Simplified)",
+      "Portuguese (Portugal)",
+      "Chinese (Traditional)",
+      "German",
+      "Portuguese (Brazil)",
+      "Polish",
+      "Japanese",
+      "Italian",
       "French"
     ],
     "release_dates": [
@@ -4126,82 +3162,6 @@
         "m": 1,
         "d": 26,
         "date": 1800921600,
-        "status": 6,
-        "platform_name": "PC (Microsoft Windows)"
-      }
-    ]
-  },
-  {
-    "id": 335565,
-    "name": "Chronocracy",
-    "cover": {
-      "id": 444792,
-      "image_id": "co9j7c"
-    },
-    "rating": null,
-    "first_release_date": 1795651200,
-    "hypes": 1,
-    "status": 2,
-    "follows": null,
-    "themes": [
-      33
-    ],
-    "pop_score": null,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "platform_ids": [
-      6
-    ],
-    "genres": [
-      "Real Time Strategy (RTS)",
-      "Simulator",
-      "Strategy",
-      "Turn-based strategy (TBS)",
-      "Indie"
-    ],
-    "genre_ids": [
-      11,
-      13,
-      15,
-      16,
-      32
-    ],
-    "developers": [
-      "Regolite"
-    ],
-    "developer_ids": [
-      62625
-    ],
-    "publishers": [
-      "HeroCraft PC"
-    ],
-    "publisher_ids": [
-      49383
-    ],
-    "languages": [
-      "Portuguese (Portugal)",
-      "German",
-      "Turkish",
-      "Czech",
-      "Korean",
-      "English",
-      "Polish",
-      "Spanish (Spain)",
-      "Japanese",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "Portuguese (Brazil)",
-      "Russian",
-      "French"
-    ],
-    "release_dates": [
-      {
-        "category": 0,
-        "y": 2026,
-        "m": 11,
-        "d": 26,
-        "date": 1795651200,
         "status": 6,
         "platform_name": "PC (Microsoft Windows)"
       }
@@ -4262,13 +3222,13 @@
       74996
     ],
     "languages": [
-      "German",
-      "Spanish (Mexico)",
       "Korean",
       "English",
-      "Japanese",
+      "Spanish (Mexico)",
       "Chinese (Simplified)",
-      "Portuguese (Brazil)"
+      "German",
+      "Portuguese (Brazil)",
+      "Japanese"
     ],
     "release_dates": [
       {
@@ -4372,22 +3332,22 @@
       61264
     ],
     "languages": [
-      "Portuguese (Portugal)",
-      "German",
-      "Turkish",
-      "Czech",
-      "Korean",
+      "Vietnamese",
       "English",
-      "Polish",
-      "Italian",
-      "Spanish (Spain)",
-      "Japanese",
-      "Chinese (Simplified)",
+      "Korean",
       "Ukrainian",
-      "Chinese (Traditional)",
+      "Spanish (Spain)",
+      "Czech",
       "Russian",
-      "French",
-      "Vietnamese"
+      "Chinese (Simplified)",
+      "Portuguese (Portugal)",
+      "Turkish",
+      "German",
+      "Chinese (Traditional)",
+      "Polish",
+      "Japanese",
+      "Italian",
+      "French"
     ],
     "release_dates": [
       {
@@ -4459,9 +3419,9 @@
     "publisher_ids": [],
     "languages": [
       "Chinese (Traditional)",
+      "Portuguese (Brazil)",
       "Chinese (Simplified)",
-      "English",
-      "Portuguese (Brazil)"
+      "English"
     ],
     "release_dates": [
       {
@@ -4524,10 +3484,10 @@
       44375
     ],
     "languages": [
+      "Japanese",
       "Spanish (Spain)",
       "German",
-      "English",
-      "Japanese"
+      "English"
     ],
     "release_dates": [
       {
@@ -4738,8 +3698,8 @@
       19890
     ],
     "languages": [
-      "English",
-      "Portuguese (Brazil)"
+      "Portuguese (Brazil)",
+      "English"
     ],
     "release_dates": [
       {
